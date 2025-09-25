@@ -5,7 +5,7 @@
     <eadid mainagencycode="US-txula" countrycode="US" encodinganalog="856$u" url="https://txarchives.org/utlac/finding_aids/00433.xml">urn:taro:utexas.blac.00433</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="245$a">Archive of Indigenous Languages of Latin America (AILLA) Collection</titleproper>
+        <titleproper encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</titleproper>
         <author encodinganalog="245$c">Benson Latin American Collection</author>
       </titlestmt>
       <publicationstmt>
@@ -14,27 +14,9 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, <date>2015</date></creation>
+      <creation encodinganalog="500">Finding aid encoded by Lucas McGill, <date>2025</date></creation>
       <langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="Latn">English.</language></langusage>
     </profiledesc>
-    <revisiondesc>
-      <change encodinganalog="583">
-        <date>2015</date>
-        <item>Finding aid updated and newly ingested collections added by Christian Kelleher.</item>
-      </change>
-      <change>
-        <date normal="2020-11">2020 November</date>
-        <item>Edited by Carla O. Alvarez to fix compliance check errors to prepare for the migration to new TARO website.</item>
-      </change>
-			<change>
-				<date normal="2021-11">2021 November</date>
-				<item>Edited by Devon Murphy to update control access terms and formatting based on the TARO Control Access List.</item>
-			</change>
-      <change>
-        <date normal="2023-01">2023 January</date>
-        <item>Edited by Dylan Joy to reflect move to LSF and added description and links to digital pages.</item>
-      </change>
-    </revisiondesc>
   </eadheader>
   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
     <did>
@@ -42,13 +24,13 @@
       <origination label="Creator:">
         <corpname source="lcnaf" encodinganalog="110">Archive of Indigenous Languages of Latin America</corpname>
       </origination>
-      <unittitle label="Title:" encodinganalog="245$a">Archive of Indigenous Languages of Latin America (AILLA) Collection</unittitle>
-      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1900/2000" era="ce" calendar="gregorian" certainty="approximate">20th century</unitdate>
+      <unittitle label="Title:" encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1960/2010" era="ce" calendar="gregorian">1960-2010</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">Various Latin American Indigenous Languages</language>
       </langmaterial>
       <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2010-03</unitid>
-      <physdesc label="Extent:" encodinganalog="300$a"><extent>16+ linear feet</extent></physdesc>
+      <physdesc label="Extent:" encodinganalog="300$a"><extent>62 boxes</extent></physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
           <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
@@ -123,33 +105,35 @@
       <head>Box Inventory</head>
       <c01 level="series">
         <did>
-          <unittitle>List of Collections and Depositors</unittitle>
+          <unittitle>Terrence Kaufman Preliminary Inventory</unittitle>
         </did>
         <c02 level="subseries">
           <did>
             <container type="box">1</container>
-            <unittitle>Archivo de las Lenguas Ind&#xed;genas de M&#xe9;xico, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962/1999">1962-1999</unitdate>
-            <physdesc>14 reel-to-reel tapes, 3 cassettes</physdesc>
+            <unittitle>Tacuapan Nahuatl </unittitle><unitdate era="ce" calendar="gregorian" normal="2002/2009">2002-2009</unitdate>
+            <physdesc>4 fileslip boxes, 1 folder of loose papers </physdesc>
             </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s)in English (ISO 639-3 code(s)): Akateko (knj); Ch'ol (ctu); Chinantec, San Jual Lealao (cle); Chocholtec (coz); Chontal, Highland Oaxaca (chd); Chuj (cac), Huarij&#xed;o (var),    
             Huave, San Mateo del Mar (huv); Mayo (mfy); Mazateco, Chiquihuitl&#xe1;n (maq); Mixe, Tlahuitoltepec (mxp); Mixteco, Pi&#xf1;oles (mil); Me'phaa, Malinaltepec (tcf); Nahuatl, Acaxochitl&#xe1;n (nhe); Nahuatl, Istmo-Pajapan (nhp); Otom&#xed;, San Andr&#xe9;s Cuexcontitl&#xe1;n (ots);        
             Triqui, Copala (trc); Totonac, Papantla (top); Zapotec, Isthmus (zai); Zoque, Santa Mar&#xed;a Chimalapa (zoh)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124450">AILLA site.</archref></p></scopecontent>
+            <p>The Project for the Documentation of the Languages of MesoAmerica (PDLMA): <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
             <container type="box">1</container>
-            <unittitle>Dakin, Karen, </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
-            <physdesc>5 reel-to-reel tapes</physdesc>
+            <unittitle>Lacandon </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973, </unitdate>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
+
+            <physdesc>4 fileslip boxes, 3 folders of paper, each containing photocopies of a notebook</physdesc>
           </did>
           <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
+            <p>The Project for the Documentation of the Languages of MesoAmerica (PDLMA): <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
             <container type="box">1</container>
-            <unittitle>Edmonson, Barbara, </unittitle><unitdate era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
+            <unittitle>Lacandon </unittitle><unitdate era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
             <physdesc>3 folders, 4 cassettes</physdesc>
           </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Huasteco (hus)</p>
