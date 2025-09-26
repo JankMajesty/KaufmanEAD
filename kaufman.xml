@@ -52,11 +52,11 @@
     <accessrestrict encodinganalog="506">
       <head>Access Restrictions</head>
       <p>Boxes 1-13 of this collection are stored remotely. Advance notice is required for retrieval. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="bensonspecialcollections@austin.utexas.edu" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:bensonspecialcollections@austin.utexas.edu">bensonspecialcollections@austin.utexas.edu</extref>.</p>
-        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions please contact the AILLA manager at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
+        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions or assistance, please contact the AILLA Coordinator at<extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Use Restrictions</head>
-      <p>Intellectual property rights and indigenous community rights restrictions apply.</p>
+      <p>Intellectual property rights and indigenous community rights restrictions apply. Educational use and/or non-commercial use may be permitted. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Preferred Citation</head>
@@ -70,32 +70,45 @@
       <head>Processing Information</head>
       <p>This collection is not processed.</p>
 		</processinfo>
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>Additional materials will be added to this collection once digitization work is complete.</p>
+    </accruals>
     <relatedmaterial encodinganalog="544 1">
       <head>Related Material</head>
-      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00558.xml">Joel F. Sherzer Collection on Guna Linguistics</archref></p>
-      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00409.xml">Mary Ritchie Key Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00433.xml">Archive of the Indigenous Languages of Latin America (AILLA) Collection </archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00576.xml">Nora England Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00501.xml">Linda Schele Papers</archref></p>
      
     </relatedmaterial>
     <controlaccess>
       <head>Index Terms</head>
       <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Kaufman, Terrence, 1937-2022</persname>
+        <persname source="lcnaf" encodinganalog="600">England, Nora, 1946-2022</persname>
+      </controlaccess>
+      <controlaccess>
         <head>Subjects (Organizations)</head>
-        <subject source="local" encodinganalog="650">Archive of Indigenous Languages of Latin America--Archives</subject>
+        <corpname source="lcnaf" encodinganalog="610">Proyecto Lingüístico Francisco Marroquín</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Project for the Documentation of the Languages of MesoAmerica</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Pittsburgh</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Chicago</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of California Berkeley</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects</head>
-        <subject source="lcsh" encodinganalog="650">Indigenous languages--Sources</subject>
+        <subject source="lcsh" encodinganalog="650">Linguistic anthropology</subject>
+        <subject source="lcsh" encodinganalog="650">Historical linguistics</subject>
+        <subject source="lcsh" encodinganalog="650">Language documentation</subject>
+        <subject source="lcsh" encodinganalog="650">Indigenous languages of the Americas</subject>
       </controlaccess>
       <controlaccess>
         <head>Places</head>
-        <geogname source="lcnaf" encodinganalog="651">Mexico</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Guatemala</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Argentina</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Chile</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Bolivia</geogname>
-        <geogname source="lcnaf" encodinganalog="651">El Salvador</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Colombia</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Brazil</geogname>
+        <geogname source="lcsh" encodinganalog="651">United States</geogname>
+        <geogname source="lcsh" encodinganalog="651">Mexico</geogname>
+        <geogname source="lcsh" encodinganalog="651">Guatemala</geogname>
+        <geogname source="lcsh" encodinganalog="651">Mesoamerica</geogname>
       </controlaccess>
     </controlaccess>
 
