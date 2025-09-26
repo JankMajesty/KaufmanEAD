@@ -196,58 +196,124 @@
           <did>
             <container type="box">1</container>
             </did>
-          <scopecontent><list>
-              <item>
-          </item></list>
+          <scopecontent>
+          <list>
+            <item>Content:</item>
+            <item>Tacuapan Nawat</item>
+            <item>1 fileslip box 2002, 2009</item>
+            <item>2 fileslip box 2002</item>
+            <item>1 fileslip box 2004 with 0.5" fileslips, 7 CDs, 1 audio cassette, 1 mini-DV</item>
+            <item>1 folder of loose papers</item>
+          </list>  
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">2</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+          <list>
+            <item>Content:</item>
+            <item>Lakantun</item>
+            <item>1 fileslip box 2005</item>
+            <item>3 undated fileslip boxes</item>
+            <item>19 CDs</item>
+            <item>8 audio cassettes</item>
+            <item>3 reels</item>
+            <item>4 minidiscs</item>
+            <item>3 folders of paper, each containing photocopies of a notebook</item>
+          </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">3</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+          <list>
+            <item>Content:</item>
+            <item>Atsugewi</item>
+            <item>1 box of file slips</item>
+            <item>Achumawi</item>
+            <item>1 box of file slips</item>
+            <item>Chimariko</item>
+            <item>2 boxes of file slips labeled "Chimariko I" and "Chimariko II"</item>
+          </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>   
         <c02 level="file">
           <did>
             <container type="box">4</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>2 boxes of file slips</item>
+              <item>Comparative Uto-Aztecan, Numic branch</item>
+              <item>2 boxes of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">5</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>2 boxes of file slips</item>
+              <item>Hopi, Tubatulabal, Serrano, Cupeño</item>
+              <item>1 box of file slips</item>
+              <item>YutaNawan, Sonoran branch</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">6</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Comparative Pomoan</item>
+              <item>2 boxes of file slips</item>
+              <item>Aguacatenango Tzeltal</item>
+              <item>2 boxes of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">7</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>2 boxes of file slips</item>
+              <item>Dení</item>
+              <item>1 box of file slips</item>
+              <item>Suruí</item>
+              <item>1 box of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">8</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>2 boxes of file slips</item>
+              <item>Bribri</item>
+              <item>1 box of file slips</item>
+              <item>Chibcha</item>
+              <item>1 box of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
           
         </c02>
@@ -255,378 +321,717 @@
           <did>
             <container type="box">9</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>4 boxes of file slips</item>
+              <item>-- 1 of 18 Kinterms names sickness</item>
+              <item>-- 2 of 18 Nahua Plants</item>
+              <item>-- 3 of 18 SP loans</item>
+              <item>-- 4 of 18 Herbs & Vines</item>
+              <item>1 folder of papers on Nawa Roots</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">10</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>4 boxes of file slips</item>
+              <item>-- 5 of 18 Trees</item>
+              <item>-- 6 of 18 Bugs</item>
+              <item>-- 7 of 18 Nahua animals</item>
+              <item>-- 8 of 18 ...A:WAK SYMBOLIC</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">11</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>4 boxes of file slips</item>
+              <item>-- 9 of 18 A-H</item>
+              <item>-- 10 of 18 I</item>
+              <item>-- 11 of 18 K</item>
+              <item>-- 12 of 18 KW-L</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">12</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>4 boxes of file slips</item>
+              <item>-- 13 of 18 M</item>
+              <item>-- 14 of 18 N-O-R-RR-J</item>
+              <item>-- 15 of 18 P</item>
+              <item>-- 16 of 18 T</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">13</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>4 boxes of file slips</item>
+              <item>Huasteca Nahuatl</item>
+              <item>-- 17 of 18 TL-TZ</item>
+              <item>-- 18 of 18 W-X</item>
+              <item>Takic Cognate Sets</item>
+              <item>1 box of file slips</item>
+              <item>Chibchan</item>
+              <item>1 box of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">14</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Kariban</item>
+              <item>1 box of file slips</item>
+              <item>Yuman Etymologies - A. Swofford</item>
+              <item>1 box of file slips</item>
+              <item>Teko</item>
+              <item>2 boxes of file slips</item>
+              <item>-- Teko A-I</item>
+              <item>-- Teko K-O</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">15</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Yaitepec Chatino</item>
+              <item>4 boxes of file slips</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">16</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Yutanawa Cognate Sets</item>
+              <item>1 box of file slips</item>
+              <item>Teko</item>
+              <item>1 box of file slips Teko P-Y</item>
+              <item>Pajapan Nawat</item>
+              <item>2 boxes of file slips dated 2002</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">17</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Zenzontepec Chatino</item>
+              <item>3 boxes of file slips</item>
+              <item>-- 1 dated 2007</item>
+              <item>-- 1 dated 2007/08</item>
+              <item>-- 1 dated 2009</item>
+              <item>Matlatzinca</item>
+              <item>1 box of file slips</item>
+              <item>Worklogs</item>
+              <item>8 folders of approx. 4 inches of paper dated 2000, 2004, 2010</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">18</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>4 boxes of file slips</item>
+              <item>-- MTL</item>
+              <item>-- MTL Ethnobotany</item>
+              <item>-- MTL Animals-- Grammar-- [also includes approx 10 pp. of notes on verb inflection]</item>
+              <item>-- MTL Nouns 7a-</item>
+              <item>Worklogs</item>
+              <item>2 folders of approx. 1.5 inches of paper dated 2005 and 2007</item>
+              <item>Memos</item>
+              <item>2 folders of approx. 1 inch of paper dated 1996</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">19</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>4 boxes of file slips</item>
+              <item>-- MTL - Nouns-</item>
+              <item>-- MTL Nouns t-</item>
+              <item>-- MTL - Tu verbs 2 of 4 (7a-r)</item>
+              <item>-- MTL Verbs + misc. N-F 3 of 4</item>
+              <item>Memos</item>
+              <item>8 folders and loose sheets totalling approx. 1.5 inches of paper</item>
+              <item>-- Memos, etc 2004</item>
+              <item>-- PDLMA memos</item>
+              <item>-- T-shirt</item>
+              <item>-- Admin 2009</item>
+              <item>-- Misc. 2010</item>
+              <item>-- Fortín 2010 Admin and Photos</item>
+              <item>-- Memos PDLMA 2000 and Correspondence</item>
+              <item>-- Memos 2000</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">20</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>4 boxes of file slips</item>
+              <item>-- MTL re verbs (all) tu verbs (s-end) 4 of 4</item>
+              <item>-- MTL verbs-- M to T 2-4</item>
+              <item>-- MTL verbs (w-y)</item>
+              <item>1 small box of file slips (packed within box 12)</item>
+              <item>-- File slips that did not fit into box 10 after processing</item>
+              <item>Miscellaneous PDLMA papers</item>
+              <item>Mije-Soke papers</item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">21</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">22</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">23</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">24</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">25</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">26</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">27</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">28</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">29</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">30</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">31</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">32</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">33</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">34</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">35</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">36</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">37</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">38</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">39</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">40</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">41</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">42</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">43</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">44</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">45</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">46</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">47</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">48</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">49</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">50</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">51</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">52</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">53</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">54</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">55</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">56</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">57</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">58</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">59</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">60</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">61</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
           <did>
             <container type="box">62</container>
           </did>
-          <scopecontent><list><item></item></list>
+          <scopecontent>
+            <list>
+              <item>
+
+              </item>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
       </c01>
