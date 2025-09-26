@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "XSLT: xsltproc → HTML",
+        "type": "shell",
+        "command": "xsltproc -o KaufmanEAD.html schema2.xsl Kaufman.xml",
+        "group": "build",
+        "problemMatcher": []
+      }
+    ]
+  }
+  
