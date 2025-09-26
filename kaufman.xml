@@ -30,7 +30,7 @@
         <language langcode="eng" scriptcode="Latn">Various Latin American Indigenous Languages</language>
       </langmaterial>
       <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2022-40</unitid>
-      <physdesc label="Extent:" encodinganalog="300$a"><extent>62 boxes</extent></physdesc>
+      <physdesc label="Extent:" encodinganalog="300$a"><extent>62 linear feet</extent></physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
           <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
@@ -118,506 +118,498 @@
         <did>
           <unittitle>Terrence Kaufman Preliminary Inventory</unittitle>
         </did>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">1</container>
             </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s)in English (ISO 639-3 code(s)): Akateko (knj); Ch'ol (ctu); Chinantec, San Jual Lealao (cle); Chocholtec (coz); Chontal, Highland Oaxaca (chd); Chuj (cac), Huarij&#xed;o (var),    
             Huave, San Mateo del Mar (huv); Mayo (mfy); Mazateco, Chiquihuitl&#xe1;n (maq); Mixe, Tlahuitoltepec (mxp); Mixteco, Pi&#xf1;oles (mil); Me'phaa, Malinaltepec (tcf); Nahuatl, Acaxochitl&#xe1;n (nhe); Nahuatl, Istmo-Pajapan (nhp); Otom&#xed;, San Andr&#xe9;s Cuexcontitl&#xe1;n (ots);        
             Triqui, Copala (trc); Totonac, Papantla (top); Zapotec, Isthmus (zai); Zoque, Santa Mar&#xed;a Chimalapa (zoh)</p>
-            <p>The Project for the Documentation of the Languages of MesoAmerica (PDLMA): <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">2</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
           </p>
-            <p>The Project for the Documentation of the Languages of MesoAmerica (PDLMA): <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">3</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Huasteco (hus)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124475">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>   
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">4</container>
           </did>
           <scopecontent><p>Country Coverage: Brazil. Language Name(s) in English (ISO 639-3 code(s)): Waiwai (waw)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">5</container>
           </did>
           <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Mak&#xe1; (mca); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">6</container>
           </did>
           <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Wich&#xed; Lhamt&#xe9;s Vejoz (wlv); Mapudungun (arn)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">7</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): K'iche' (quc); Kaqchikel (cak); Tz'utujil (tzj)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">8</container>
           </did>
           <scopecontent><p> Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): Popti' (jac)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
           
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">9</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)</p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">10</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">11</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mixtec (omq); various Otom&#xed;, Eastern Highland (otm); Mazahua, Central (maz)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">12</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
             Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">13</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Nivacl&#xe9; (cag); Pilag&#xe1; (plg); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">14</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Qom (qom)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">15</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Seri (sei)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">16</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Chatino, Eastern San Juan Quiahije (ctp); Chatino, Tataltepec de Vald&#xe9;s (cta)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">17</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina, Chile. Language Name(s) in English (ISO 639-3 code(s)): Ona (ona); Tehuelche (teh)  
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">18</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">19</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
             Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">20</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">21</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">22</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">23</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">24</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">25</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
           </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">26</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">27</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">28</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">29</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">30</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">31</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">32</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">33</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">34</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">35</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">36</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">37</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">38</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">39</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">40</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">41</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">42</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">43</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">44</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">45</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">46</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">47</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">48</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">49</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">50</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">51</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">52</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">53</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">54</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">55</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">56</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">57</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">58</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">59</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">60</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">61</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
-        <c02 level="subseries">
+        <c02 level="file">
           <did>
             <container type="box">62</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
             </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
-        </c02>
-        <c02 level="subseries">
-          <did>
-            <container type="box">63</container>
-          </did>
-          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
-            </p>
-            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
       </c01>
     </dsc>
