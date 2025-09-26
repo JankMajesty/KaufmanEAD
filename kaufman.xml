@@ -219,6 +219,7 @@
             <container type="box">2</container>
           </did>
           <scopecontent>
+          <p></p>
           <list type="simple">
             <item>Content:</item>
             <item>Lacadon</item>
@@ -241,6 +242,7 @@
             <container type="box">3</container>
           </did>
           <scopecontent>
+          <p></p>
           <list type="simple">
             <item>Content:</item>
             <item>Lacandon</item>
@@ -264,6 +266,7 @@
             <container type="box">4</container>
           </did>
           <scopecontent>
+          <p></p>
             <list type="simple">
               <item>Content:</item>
               <item>1. Atsugewi</item>
