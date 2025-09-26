@@ -10,7 +10,7 @@
       </titlestmt>
       <publicationstmt>
         <publisher encodinganalog="260$b">University of Texas Libraries, </publisher>
-        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2015">2015</date>
+        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2025">2025</date>
       </publicationstmt>
     </filedesc>
     <profiledesc>
@@ -22,34 +22,32 @@
     <did>
       <head>Descriptive Summary</head>
       <origination label="Creator:">
-        <corpname source="lcnaf" encodinganalog="110">Archive of Indigenous Languages of Latin America</corpname>
+        <persname source="lcnaf" encodinganalog="100">Kaufman, Terrence, 1937-2022</persname>
       </origination>
       <unittitle label="Title:" encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</unittitle>
       <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1960/2010" era="ce" calendar="gregorian">1960-2010</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">Various Latin American Indigenous Languages</language>
       </langmaterial>
-      <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2010-03</unitid>
+      <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2022-40</unitid>
       <physdesc label="Extent:" encodinganalog="300$a"><extent>62 boxes</extent></physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
           <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
         </extref>
       </repository>
-      <abstract label="Abstract:" encodinganalog="520$a">Analog copies of indigenous language recordings, field notes, photographs, and other research material collected and digitized by the University of Texas' Archive of Indigenous Languages of Latin America (AILLA)</abstract>
+      <abstract label="Abstract:" encodinganalog="520$a">This collection represents fifty years of linguistic research carried out by Terrence Kaufman, a linguistic anthropologist on languages of the Americas, especially Mexico and Guatemala. Materials include Kaufman’s compiled archival and library research and his vast amount of original field work, including his independent research on Huasteca Nahuatl, Huastec (Maya), and other Mayan languages of Mexico and Guatemala, and two large research projects he directed, the Proyecto Lingüístico Francisco Marroquín (PLFM, Guatemala, 1970s) and the Project for the Documentation of the Languages of MesoAmerica (PDLMA, Mexico, 1993-2010). Digitized versions of much of this collection are available in the Archive of the Indigenous Languages of Latin America (AILLA).</abstract>
     </did>
     <bioghist encodinganalog="545">
       <head>Historical Note</head>
-      <p>Archive of Indigenous Languages of Latin America (AILLA) was founded in 2000 by Joel Sherzer of the Department of Anthropology, Anthony Woodbury of the Department of Linguistics, and Mark McFarland, Director of the Digital Library Services Division of the UT General Library System. The pilot website and database, launched in April, 2000, were built by a group of Sherzer's graduate students: Christine Beier, William Fairchild, Ajb'ee Jimenez, and Lev Michael. The first year of the project was supported by a grant from the Dean of the College of Liberal Arts at UT Austin.</p>
-      <p>Joel Sherzer conducted research on the Kuna language of Panama for more than 30 years. Over the years he amassed a sizeable collection of recordings of Kuna discourse, including performances that are of tremendous importance to the Kuna people. He observed that other scholars were also creating substantial collections of recordings and texts, constituting a tremendous resource for the indigenous languages of Latin America. He was concerned about the preservation of these priceless collections of indigenous verbal art.</p>
-      <p>The development of affordable technologies for creating and using digital media make it possible for AILLA to collect, digitize, and permanently preserve these resources in standard formats that anyone can access through widely-available software tools. The Internet makes it possible to serve these resources to a global audience, that most importantly includes the speakers of the languages represented in the archive.</p>
-      <p>AILLA is part of both the Lozano Long Institute of Latin American Studies (LLILAS) and the Nettie Lee Benson Latin American Collection (BLAC) at the University of Texas at Austin. AILLA is also an integral part of the language documentation programs of the departments of Linguistics and Anthropology.</p>
-      <p>AILLA is supported by the University of Texas at Austin's College of Liberal Arts and the University Libraries. We are also grateful for generous support from the National Endowment for the Humanities and the National Science Foundation. The archive proper is housed on servers maintained by the Digital Library Services Division of the University Libraries. AILLA's lab and office are located inside the Benson.</p>
+      <p>Terrence Kaufman (1937-2022) was an American linguistic anthropologist who specialized in historical linguistics, language contact, and lexicography of un/under-documented languages of the world. The focus of the portion of his collection that is in the Benson Latin American Collection is on Mexico and Guatemala, with additional materials from other parts of North and Central America, and, to a much lesser extent, South America. His research on Germanic, Romani, Celtic, Semitic, and Indo-European languages is located at the Library of the American Philosophical Society.</p>
+      <p>As an undergraduate at the University of Chicago, 1957-1959, he majored in Linguistics and Germanic languages, and he developed interests in English dialects, Romani, Austronesian, and Algonquian languages. In 1959-1960, as a student research assistant for Normal McQuown, he developed his life-long interests in Mayan and Mixe-Zoquen languages. Kaufman conducted his first field work in Chiapas, Mexico, from March to September of 1960, where he worked on Tzeltal of Aguacatenango and Tenejapa and Tzotzil of Chamula. He completed his graduate studies at the University of California Berkeley from 1960-1963. For his PhD dissertation (1963), he wrote a grammar of Tzeltal of Aguacatenango. During his long and distinguished career, he taught at Ohio State University (1963-1964), UC Berkeley (1964-1970), and the University of Pittsburgh (1970-2011). From 1970 through 2010 he spent nearly every summer doing field work in Mesoamerica; exceptions were 1975, 1985, 1988, 1989, 1991, and 1992. Much of his field work was grant funded, including grants from the National Science Foundation (NSF), the Foundation for the Advancement of Mesoamerican Studies (FAMSI), the Mexican Instituto Nacional de Lenguas Indígenas (INALI), and the National Geographic (NatGeo). However, all of his field work on Huastec (Mayan) and Huasteca Nahuatl was self-funded.</p>
+      <p>From 1970-1979 Kaufman directed the Proyecto Lingüístico Francisco Marroquín (PLFM) in Antigua, Guatemala; the mission of the PLFM was to train native speakers of Mayan languages to conduct linguistic research on their own languages and the goal was a comprehensive survey of all Mayan languages in the country. The PLFM was staffed by US Peace Corps volunteers with higher degrees in anthropology and linguistics and paid Guatemalan native speakers of Mayan languages who, together, were tasked with carrying out a country-wide language survey to determine the extent of the linguistic variation in the Mayan languages, as well as their geographic boundaries and genetic and areal relationships. To carry out this work, project members devised a single orthographical system in 1970 that they used for all the languages they investigated. In 1989, a commission appointed by the government of Guatemala approved and officialized, except in one detail, the orthography promoted by the PLFM.</p>
+      <p>From 1993 to 2010, Kaufman co-directed the Project for the Documentation of the Languages of Latin America in Mexico. This project focused mainly on Zapotecan and Mixe-Zoquean languages, but also included a few Mayan languages and one language each from the Totonac-Tepehua language family. Mexico- and US-based volunteer linguistics and linguistic anthropologists (both students and faculty) were paired with paid native speakers of these languages every summer to conduct lexical research aimed at producing dictionaries of these languages. The dictionaries were supposed to be published by the Mexican Instituto Nacional de Lenguas Indígenas (INALI), but this did not happen due to a change in INALI administration. Many of the boxes of file slips in this collection are, essentially, the first drafts of these unpublished dictionaries.</p>
     </bioghist>
     <scopecontent encodinganalog="520$b">
       <head>Scope and Contents Note</head>
-      <p>Analog originals of indigenous language recordings, field notes, photographs, and other research materials collected and digitized by AILLA. The collection is roughly organized by the name of each depositor of collection material. Country coverage,languages, and dates are listed when available.</p>
-      <p>All of the analog materials described below have been digitized. Access to the corresponding digital collections should be done through the links listed below in the Inventory.</p>
+      <p>The collection contains audio recordings (cassettes, open-reels, MiniDiscs, CDs), video recordings (Hi-8, miniDV), photographs (CDs), handwritten and printed notes, papers, handouts, administrative documents, and dozens of boxes of lexical file slips. Digital copies of most materials are available in AILLA.</p>
     </scopecontent>
     <accessrestrict encodinganalog="506">
       <head>Access Restrictions</head>
@@ -62,15 +60,15 @@
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Preferred Citation</head>
-      <p>Archive of Indigenous Languages of Latin America Collection, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin.</p>
+      <p>Terrence Kaufman Collection, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin.</p>
     </prefercite>
     <acqinfo encodinganalog="541">
       <head>Acquisition Information</head>
-      <p>Information of acquisition method not available.</p>
+      <p>Donation.</p>
     </acqinfo>
     <processinfo encodinganalog="583">
       <head>Processing Information</head>
-      <p>Processing information not available.</p>
+      <p>This collection is not processed.</p>
 		</processinfo>
     <relatedmaterial encodinganalog="544 1">
       <head>Related Material</head>
@@ -110,8 +108,6 @@
         <c02 level="subseries">
           <did>
             <container type="box">1</container>
-            <unittitle>Tacuapan Nahuatl </unittitle><unitdate era="ce" calendar="gregorian" normal="2002/2009">2002-2009</unitdate>
-            <physdesc>4 fileslip boxes, 1 folder of loose papers </physdesc>
             </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s)in English (ISO 639-3 code(s)): Akateko (knj); Ch'ol (ctu); Chinantec, San Jual Lealao (cle); Chocholtec (coz); Chontal, Highland Oaxaca (chd); Chuj (cac), Huarij&#xed;o (var),    
             Huave, San Mateo del Mar (huv); Mayo (mfy); Mazateco, Chiquihuitl&#xe1;n (maq); Mixe, Tlahuitoltepec (mxp); Mixteco, Pi&#xf1;oles (mil); Me'phaa, Malinaltepec (tcf); Nahuatl, Acaxochitl&#xe1;n (nhe); Nahuatl, Istmo-Pajapan (nhp); Otom&#xed;, San Andr&#xe9;s Cuexcontitl&#xe1;n (ots);        
@@ -120,11 +116,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">1</container>
-            <unittitle>Lacandon </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973, </unitdate>
-            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
-
-            <physdesc>4 fileslip boxes, 3 folders of paper, each containing photocopies of a notebook</physdesc>
+            <container type="box">2</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
           </p>
@@ -132,54 +124,42 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">1</container>
-            <unittitle>Lacandon </unittitle><unitdate era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
-            <physdesc>3 folders, 4 cassettes</physdesc>
+            <container type="box">3</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Huasteco (hus)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124475">AILLA site.</archref></p></scopecontent>
         </c02>   
         <c02 level="subseries">
           <did>
-            <container type="box">1</container>
-            <unittitle>Fock, Neils, </unittitle><unitdate era="ce" calendar="gregorian" normal="1950/1959">1950s</unitdate>
-            <physdesc>8 reel-to-reel tapes</physdesc>
+            <container type="box">4</container>
           </did>
           <scopecontent><p>Country Coverage: Brazil. Language Name(s) in English (ISO 639-3 code(s)): Waiwai (waw)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">1</container>
-            <unittitle>Gerzenstein, Ana, </unittitle><unitdate era="ce" calendar="gregorian" normal="1966">1966, </unitdate><unitdate era="ce" calendar="gregorian" normal="1968">1968, </unitdate><unitdate era="ce" calendar="gregorian" normal="1971">1971, </unitdate><unitdate era="ce" calendar="gregorian" normal="1977">1977, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983/1985">1983-1985</unitdate>
-            <physdesc>9 reel-to-reel tapes</physdesc>
+            <container type="box">5</container>
           </did>
           <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Mak&#xe1; (mca); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">1</container>
-            <unittitle>Golluscio, Luc&#xed;a, </unittitle><unitdate era="ce" calendar="gregorian" normal="1968">1968, </unitdate><unitdate era="ce" calendar="gregorian" normal="1978">1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1981/1985">1981-1985</unitdate>
-            <physdesc>9 reel-to-reel tapes, 1 cassette</physdesc>
+            <container type="box">6</container>
           </did>
           <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Wich&#xed; Lhamt&#xe9;s Vejoz (wlv); Mapudungun (arn)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">2</container>
-            <unittitle>Grimes, Larry, </unittitle><unitdate era="ce" calendar="gregorian" normal="1965/1970" certainty="approximate">late 1960s, early 1970s</unitdate>
-            <physdesc>6 reel-to-reel tapes</physdesc>
+            <container type="box">7</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): K'iche' (quc); Kaqchikel (cak); Tz'utujil (tzj)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">2</container>
-            <unittitle>Grinevald, Colette, </unittitle><unitdate era="ce" calendar="gregorian" normal="1970/1973">1970-1973</unitdate>
-            <physdesc>5 reel-to-reel tapes, 11 cassettes, 1 mini disk</physdesc>
+            <container type="box">8</container>
           </did>
           <scopecontent><p> Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): Popti' (jac)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
@@ -187,18 +167,14 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">2-4</container>
-            <unittitle>Hill, Jane and Kenneth, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962">1962, </unitdate><unitdate era="ce" calendar="gregorian" normal="1974/1978">1974-1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-            <physdesc>90 cassette tapes, plus folders and notebooks</physdesc>
+            <container type="box">9</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)</p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">4</container>
-            <unittitle>Hopkins, Nicholas, </unittitle><unitdate era="ce" calendar="gregorian" normal="1964/2002">1964-2002</unitdate>
-            <physdesc>30 reel-to-reel tapes, 9 cassette tapes</physdesc>
+            <container type="box">10</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
           </p>
@@ -206,9 +182,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">4-6</container>
-            <unittitle>Josserand, Kathryn, </unittitle><unitdate era="ce" calendar="gregorian" normal="1970/1989">1970s and 1980s</unitdate>
-            <physdesc>118 reel-to-reel tapes</physdesc>
+            <container type="box">11</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mixtec (omq); various Otom&#xed;, Eastern Highland (otm); Mazahua, Central (maz)
           </p>
@@ -216,9 +190,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">7</container>
-            <unittitle>Lastra, Yolanda, </unittitle><unitdate era="ce" calendar="gregorian" normal="1959/2009">1959-2009</unitdate>
-            <physdesc>13 reel-to-reel tapes</physdesc>
+            <container type="box">12</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
             Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
@@ -227,9 +199,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">7</container>
-            <unittitle>Mart&#xed;n, Herminia</unittitle>
-            <physdesc>6 reel-to-reel tapes</physdesc>
+            <container type="box">13</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Nivacl&#xe9; (cag); Pilag&#xe1; (plg); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)
           </p>
@@ -237,9 +207,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">7</container>
-            <unittitle>Messineo, Christina, </unittitle><unitdate era="ce" calendar="gregorian" normal="2003">2003</unitdate>
-            <physdesc>3 cassette tapes</physdesc>
+            <container type="box">14</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Qom (qom)
           </p>
@@ -247,9 +215,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">7</container>
-            <unittitle>Moser, Edward and Mary, </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s</unitdate>
-            <physdesc>38 open reel tapes</physdesc>
+            <container type="box">15</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Seri (sei)
           </p>
@@ -257,9 +223,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">8</container>
-            <unittitle>Pride, Kitty and Leslie, </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s</unitdate>
-            <physdesc>8 reel-to-reel tapes, 1 cassette</physdesc>
+            <container type="box">16</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Chatino, Eastern San Juan Quiahije (ctp); Chatino, Tataltepec de Vald&#xe9;s (cta)
           </p>
@@ -267,9 +231,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">8</container>
-            <unittitle>Su&#xe1;rez, Jorge A., </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s, </unitdate><unitdate era="ce" calendar="gregorian" normal="1970/1979">1970s</unitdate>
-            <physdesc>30 reel-to-reel tapes, notebooks</physdesc>
+            <container type="box">17</container>
           </did>
           <scopecontent><p> Country Coverage: Argentina, Chile. Language Name(s) in English (ISO 639-3 code(s)): Ona (ona); Tehuelche (teh)  
           </p>
@@ -277,9 +239,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">9</container>
-            <unittitle>Hopkins, Nicholas, </unittitle><unitdate era="ce" calendar="gregorian" normal="1964/2002">1964-2002</unitdate>
-            <physdesc>21 DAT, 9 open reel tapes, 13 Hi-8 video cassettes, 44 audio cassettes</physdesc>
+            <container type="box">18</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
           </p>
@@ -287,9 +247,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">10</container>
-            <unittitle>Lastra, Yolanda, </unittitle><unitdate era="ce" calendar="gregorian" normal="1959/2009">1959-2009</unitdate>
-            <physdesc>25 reel-to-reel tapes</physdesc>
+            <container type="box">19</container>
           </did>
           <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
             Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
@@ -298,9 +256,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">11</container>
-            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
-            <physdesc>117 cassettes, 9 reel-to-reel tapes</physdesc>
+            <container type="box">20</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
@@ -308,9 +264,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">12</container>
-            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
-            <physdesc>101 folders containing dissertation and other research data, in addition to transcriptions and translations that correspond to audio files; each folder has an PID written on it; also includes an unfoldered copy of Terrence Kaufman’s November 1967 “Preliminary Moch&#xf3; Vocabulary”</physdesc>
+            <container type="box">21</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
@@ -318,9 +272,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">13</container>
-            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
-            <physdesc>2.75 inches of publications by other people; 11 notebooks of fieldnotes and elicitations</physdesc>
+            <container type="box">22</container>
           </did>
           <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
           </p>
@@ -328,9 +280,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">13</container>
-            <unittitle>Hill, Jane and Kenneth, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962">1962, </unitdate><unitdate era="ce" calendar="gregorian" normal="1974/1978">1974-1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-            <physdesc>9 folders of various publications and a few unfoldered pamphlets and publications</physdesc>
+            <container type="box">23</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)
           </p>
@@ -338,9 +288,7 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">13</container>
-            <unittitle>Dakin, Karen, </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
-            <physdesc>6 reel-to-reel tapes</physdesc>
+            <container type="box">24</container>
           </did>
           <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
           </p>
@@ -348,12 +296,314 @@
         </c02>
         <c02 level="subseries">
           <did>
-            <container type="box">14-16</container>
-            <unittitle>Sorensen, Arthur </unittitle>
-            <physdesc>To be eventually included in a stand alone collection.</physdesc>
+            <container type="box">25</container>
           </did>
           <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
           </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">26</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">27</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">28</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">29</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">30</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">31</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">32</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">33</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">34</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">35</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">36</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">37</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">38</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">39</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">40</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">41</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">42</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">43</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">44</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">45</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">46</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">47</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">48</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">49</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">50</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">51</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">52</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">53</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">54</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">55</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">56</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">57</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">58</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">59</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">60</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">61</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">62</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">63</container>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+            </p>
             <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
       </c01>
