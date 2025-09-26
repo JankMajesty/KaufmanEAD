@@ -185,6 +185,7 @@
         <geogname source="lcsh" encodinganalog="651">Mesoamerica</geogname>
       </controlaccess>
     </controlaccess>
+
     <dsc type="combined">
       <head>Box Inventory</head>
       <c01 level="series">
@@ -196,14 +197,8 @@
             <container type="box">1</container>
             </did>
           <scopecontent>
-          <list type="simple">
-            <item>Content:</item>
-            <item>Tacuapan Nahuat</item>
-            <item>- 1 fileslip box 2002, 2009</item>
-            <item>- 2 fileslip box 2002</item>
-            <item>- 1 fileslip box 2004 with 0.5"" fileslips, 7 CDs, 1 audio cassette, 1 mini-DV</item>
-            <item>- 1 folder of loose papers</item>
-          </list>
+          <list>
+            </list>  
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -211,13 +206,8 @@
             <container type="box">2</container>
           </did>
           <scopecontent>
-          <list type="simple">
-            <item>Content:</item>
-            <item>Lacadon</item>
-            <item>- 1 fileslip box 2005</item>
-            <item>- 3 undated fileslip boxes</item>
-            <item>- 3 folders of paper, each containing photocopies of a notebook</item>
-          </list>
+          <list>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -225,14 +215,8 @@
             <container type="box">3</container>
           </did>
           <scopecontent>
-          <list type="simple">
-            <item>Content:</item>
-            <item>Lacandon</item>
-            <item>- 19 CDs</item>
-            <item>- 8 audio cassettes</item>
-            <item>- 3 reels</item>
-            <item>- 4 minidiscs</item>
-          </list>
+          <list>
+            </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>   
         <c02 level="file">
@@ -240,15 +224,8 @@
             <container type="box">4</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Atsugewi</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Achumawi</item>
-              <item>- 1 box of file slips</item>
-              <item>3. Chimariko</item>
-              <item>- 2 boxes of file slips labeled ""Chimariko I"" and ""Chimariko II""</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -256,13 +233,8 @@
             <container type="box">5</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Comparative Uto-Aztecan, Numic branch</item>
-              <item>- 1 box of file slips (box 2 of 2)</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -270,13 +242,8 @@
             <container type="box">6</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Comparative Uto-Aztecan, Numic branch</item>
-              <item>- 1 box of file slips (box 1 of 2)</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -284,13 +251,8 @@
             <container type="box">7</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Hopi, Tubatulabal, Serrano, Cupeño</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -298,13 +260,8 @@
             <container type="box">8</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Uto-Aztecan, Sonoran branch</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
           
         </c02>
@@ -313,13 +270,8 @@
             <container type="box">9</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Pomoan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Aguacatenango Tzeltal</item>
-              <item>- 1 box of fileslips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -327,13 +279,8 @@
             <container type="box">10</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Pomoan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Aguacatenango Tzeltal</item>
-              <item>- 1 box of fileslips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -341,11 +288,8 @@
             <container type="box">11</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -353,15 +297,8 @@
             <container type="box">12</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Dení</item>
-              <item>- 1 box of file slips</item>
-              <item>3. Suruí</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -369,11 +306,8 @@
             <container type="box">13</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -381,15 +315,8 @@
             <container type="box">14</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Comparative Hokan</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Bribri</item>
-              <item>- 1 box of file slips</item>
-              <item>3. Chibcha</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -397,16 +324,8 @@
             <container type="box">15</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huasteca Nahuatl</item>
-              <item>- 4 boxes of files slips</item>
-              <item>-- 1 of 18 Kinterms names sickness</item>
-              <item>-- 2 of 18 Nahua Plants</item>
-              <item>-- 3 of 18 SP loans</item>
-              <item>-- 4 of 18 Herbs &amp; Vines</item>
-              <item>- 1 folder of papers on Nawa Roots</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -414,15 +333,8 @@
             <container type="box">16</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huasteca Nahuatl</item>
-              <item>- 4 boxes of files slips</item>
-              <item>-- 5 of 18 Trees</item>
-              <item>-- 6 of 18 Bugs</item>
-              <item>-- 7 of 18 Nahua animals</item>
-              <item>-- 8 of 18 ...A:WAK SYMBOLIC</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -430,15 +342,8 @@
             <container type="box">17</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huasteca Nahuatl</item>
-              <item>- 4 boxes of files slips</item>
-              <item>-- 9 of 18 A-H</item>
-              <item>-- 10 of 18 I</item>
-              <item>-- 11 of 18 K</item>
-              <item>-- 12 of 18 KW-L</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -446,15 +351,8 @@
             <container type="box">18</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huasteca Nahuatl</item>
-              <item>- 4 boxes of files slips</item>
-              <item>-- 13 of 18 M</item>
-              <item>-- 14 of 18 N-O-R-RR-J</item>
-              <item>-- 15 of 18 P</item>
-              <item>-- 16 of 18 T</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -462,14 +360,8 @@
             <container type="box">19</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Huasteca Nahuatl</item>
-              <item>-- 17 of 18 TL-TZ</item>
-              <item>-- 18 of 18 W-X</item>
-              <item>2. Takic Cognate Sets</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -477,11 +369,8 @@
             <container type="box">20</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Chibchan</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -489,13 +378,8 @@
             <container type="box">21</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Teko</item>
-              <item>- 2 boxes of file slips</item>
-              <item>-- Teko A-I</item>
-              <item>-- Teko K-O</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -503,13 +387,8 @@
             <container type="box">22</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Kariban</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Yuman Etymologies - A. Swofford</item>
-              <item>- 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -517,11 +396,8 @@
             <container type="box">23</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Yaitepec Chatino</item>
-              <item>- 4 boxes of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -529,13 +405,8 @@
             <container type="box">24</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Yutanawa Cognate Sets</item>
-              <item>- 1 box of file slips</item>
-              <item>2. Teko</item>
-              <item>- 1 box of file slips Teko P-Y</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -543,11 +414,8 @@
             <container type="box">25</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Pajapan Nawat</item>
-              <item>- 2 boxes of file slips dated 2002</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -555,13 +423,8 @@
             <container type="box">26</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Zenzontepec Chatino</item>
-              <item>- 2 boxes of file slips</item>
-              <item>-- 1 dated 2007</item>
-              <item>-- 1 dated 2007/08</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -569,15 +432,8 @@
             <container type="box">27</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Zenzontepec Chatino</item>
-              <item>- 1 box of file slips dated 2009</item>
-              <item>2. Matlatzinca</item>
-              <item>- 1 box of file slips</item>
-              <item>3. Worklogs</item>
-              <item>- 8 folders of approx. 4 inches of paper dated 2000, 2004, 2010</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -585,15 +441,8 @@
             <container type="box">28</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Matlatzinca</item>
-              <item>- 2 boxes of file slips</item>
-              <item>-- MTL</item>
-              <item>-- MTL Ethnobotany</item>
-              <item>Memos</item>
-              <item>- 2 folders of approx. 1 inch of paper dated 1996</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -601,15 +450,8 @@
             <container type="box">29</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Matlatzinca</item>
-              <item>- 2 boxes of file slip</item>
-              <item>-- MTL Animals-- Grammar-- [also includes approx 10 pp. of notes on verb inflection]</item>
-              <item>-- MTL Nouns 7a-</item>
-              <item>Worklogs</item>
-              <item>- 2 folders of approx. 1.5 inches of paper dated 2005 and 2007</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -617,25 +459,8 @@
             <container type="box">30</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Matlatzinca</item>
-              <item>- 4 boxes of file slips</item>
-              <item>-- MTL - Nouns-</item>
-              <item>-- MTL Nouns t-</item>
-              <item>-- MTL - Tu verbs 2 of 4 (7a-r)</item>
-              <item>-- MTL Verbs + misc. N-F 3 of 4</item>
-              <item>Memos</item>
-              <item>- 8 folders and loose sheets totalling approx. 1.5 inches of paper</item>
-              <item>--Memos, etc 2004</item>
-              <item>-- PDLMA memos</item>
-              <item>-- T-shirt</item>
-              <item>-- Admin 2009</item>
-              <item>-- Misc. 2010</item>
-              <item>-- Fortín 2010 Admin &amp; Photos</item>
-              <item>-- Memos PDLMA 2000 &amp; Correspondence</item>
-              <item>-- Memos 2000</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -643,20 +468,8 @@
             <container type="box">31</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Matlatzinca</item>
-              <item>- 3 boxes of files slips</item>
-              <item>-- MTL re verbs (all) &amp; tu verbs (s-end) (box 4 of 4 and box 10 of 14 total)</item>
-              <item>--- 1 small box of file slips that did not fit bac into box 10 of 14 after scanning</item>
-              <item>-- MTL verbs-- M to T 2-4 (box 2 of 4 and box 11 of 14 total)</item>
-              <item>Miscellaneous PDLMA papers</item>
-              <item>2. - Mayan Group</item>
-              <item>3. - Totonacan Group</item>
-              <item>4. - receipts &amp; misc papers</item>
-              <item>5. - AAA paper handout</item>
-              <item>6. - PDLMA 2004 symposium</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -664,14 +477,8 @@
             <container type="box">32</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Matlatzinca</item>
-              <item>- 2 boxes of files slips</item>
-              <item>-- MTL 99 1/2 (box 13 of 14 total)</item>
-              <item>-- MTL verbs (w-y) (box 12 of 14 total)</item>
-              <item>2. Mixe-Zoque Diachronic Studies</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -679,14 +486,8 @@
             <container type="box">33</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Huehuetla Tepewa</item>
-              <item>- 2 boxes of file slips</item>
-              <item>-- TPW 2000</item>
-              <item>-- TPW</item>
-              <item>2. Zapotecan group folders</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -694,11 +495,8 @@
             <container type="box">34</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Matlatzinca - 1 box of file slips - MTL 99 2/2</item>
-              <item>2. Huehuetla Tepewa - 1 box of file slips</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -706,14 +504,8 @@
             <container type="box">35</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Pajapan Nawat</item>
-              <item>- 4 boxes of file slips</item>
-              <item>-- 2 dated 2003</item>
-              <item>-- 2 dated 2004</item>
-              <item>- PAJ notes</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -721,11 +513,8 @@
             <container type="box">36</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>TK misc. writings and handouts</item>
-              <item>TK course materials - papers</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -733,13 +522,8 @@
             <container type="box">37</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huehuetla Tepewa</item>
-              <item>- 2 boxes of file slips</item>
-              <item>-- 1 dated 2005</item>
-              <item>-- 1 undated</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -747,13 +531,8 @@
             <container type="box">38</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PLFM papers and Kaufman's papers on Mayan Languages</item>
-              <item>- Non-survey or questionnaire papers</item>
-              <item>- Maya Vocabulary Survey</item>
-              <item>- Misc papers by project members</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -761,11 +540,8 @@
             <container type="box">39</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Kaufman's papers on Otomanguean languages and the proto language family.</item>
-              <item>Comparative Otomanguean</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -773,13 +549,8 @@
             <container type="box">40</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. PLFM</item>
-              <item>- Cuestionario Linguistico (Guatemalan Maya Dialect Survey)</item>
-              <item>2. TKC Teko transcription</item>
-              <item>3. TKC Mocho texts and papers</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -787,11 +558,8 @@
             <container type="box">41</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. MesoAmerican Writing course recordings, syllabi - cassettes, paper</item>
-              <item>2. Language and Prehistory in MesoAmerica course recordings- casettes</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -799,17 +567,8 @@
             <container type="box">42</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. MesoAmerican Writing course recordings - CDs</item>
-              <item>2. Language and Prehistory in MesoAmerica course recordings - CDs</item>
-              <item>3. PDLMA Ethnomedicine - CDs</item>
-              <item>4. PDLMA Traditional Knowledge Workshop (Taller de sabiduría) - CDs</item>
-              <item>5. PDLMA Zapotec Group - Tone presentations  - CDs, papers</item>
-              <item>6. PDLMA Guichicovi Mije - CDs, minidiscs, cassettes</item>
-              <item>7. Gulf Nawat Survey CDs</item>
-              <item>8. Trio Microsónicos - Canciones Teenek Taucanhuitz CD</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -817,14 +576,8 @@
             <container type="box">43</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huasteca Nahuatl papers</item>
-              <item>Nahuatl, Western Huasteca (NAW-COX Coxcatlán Nahuatl)</item>
-              <item>- cassettes, CDs</item>
-              <item>Eastern Huasteca Nahuatl (NAW-AJO Los Ajos, Tantoyuca; NAW-CHI Agua Fría, Chicontepc; NAW-CHO Chontla, Tamazunchale, San Luis Potosí)</item>
-              <item>-  cassettes, CDs</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -832,25 +585,8 @@
             <container type="box">44</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. PDLMA Spanish Loanwords Workshops</item>
-              <item>- Paper, minidiscs, CD</item>
-              <item>2. PDLMA Ethonobiology Workshops</item>
-              <item>- Paper, miniDV</item>
-              <item>3. PDLMA Sound Symbolism Workshops</item>
-              <item>- Paper, CDs, minidiscs</item>
-              <item>4. PDLMA Escritura Zapoteca Workshops</item>
-              <item>-Hi8 video, CDs</item>
-              <item>5. PDLMA Miscellaneous (BRR worklog, library list, clausura)</item>
-              <item>-CDs</item>
-              <item>6. PDLMA Mije-Soke Group</item>
-              <item>- papers</item>
-              <item>7. PDLMA Nahuatl language (Mecayapan, Paso (de) Cupilco, Pajapan)</item>
-              <item>- cassettes, CDs, papers</item>
-              <item>8. (Not PDLM) Kaufman presentation on ""Olmecs, Teotihuacaner, and Tolecs: Language History and Language Contact in Mesoamerica"" on 2013-01-23 in Austin, Texas</item>
-              <item>-miniDV videos</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -858,14 +594,8 @@
             <container type="box">45</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PDLMA</item>
-              <item>1. Oluta Mije CDs</item>
-              <item>2. Totontepec Mije CDs</item>
-              <item>3. Texistepec Popoluca CDs</item>
-              <item>4. Excursion to Reserva Biologica</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -873,14 +603,8 @@
             <container type="box">46</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PDLMA</item>
-              <item>1. Oluta Mije cassettees, papers</item>
-              <item>2. Totontepec Mije minidiscs</item>
-              <item>3. Texistepec Popoluca ??</item>
-              <item>4. Excursion to Reserva Biologica</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -888,21 +612,8 @@
             <container type="box">47</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Part 1 of 2 (of former shipping box 29)</item>
-              <item>PDLMA</item>
-              <item>1.Chimalapa Soke audio</item>
-              <item>- Santa María (MAR) dialect</item>
-              <item>- San Miguel (MIG) dialect</item>
-              <item>-CDs, cassettes, minidiscs</item>
-              <item>2. Ayapaneko</item>
-              <item>- CDs, cassettes</item>
-              <item>3. Soteapan</item>
-              <item>- CDs, cassettes, minidics</item>
-              <item>4. Tecpatán Soke</item>
-              <item>- CDs, cassettes, two notebooks</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -910,21 +621,8 @@
             <container type="box">48</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Part 2 of 2 (of former shipping box 29)</item>
-              <item>PDLMA</item>
-              <item>1. Chimalapa Soke audio</item>
-              <item>- Santa María (MAR) dialect</item>
-              <item>- San Miguel (MIG) dialect</item>
-              <item>-CDs, cassettes, minidiscs</item>
-              <item>2. Ayapaneko</item>
-              <item>- CDs, cassettes</item>
-              <item>3. Soteapan</item>
-              <item>- CDs, cassettes, minidics</item>
-              <item>4. Tecpatán Soke</item>
-              <item>- CDs, cassettes, two notebooks</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -932,28 +630,8 @@
             <container type="box">49</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Part 1 of 2 (of former shipping box 30) - not a precise inventory</item>
-              <item>open reels, cassettes, CDs</item>
-              <item>Mayan languages</item>
-              <item>1. Mam</item>
-              <item>2. Teko</item>
-              <item>3. Uspanteko</item>
-              <item>4. Tzeltal</item>
-              <item>5. Tzotzil, Chamula</item>
-              <item>6. Mocho'</item>
-              <item>7. Itzaj</item>
-              <item>8. Ixil</item>
-              <item>Nawa</item>
-              <item>9. 2 dialects of Nahuatl: TUZ &amp; PIA</item>
-              <item>10. Saudi Arabic</item>
-              <item>11. Chinook Jargon</item>
-              <item>12. Dakota</item>
-              <item>13. Lake Miwok</item>
-              <item>14. Plains Miwok</item>
-              <item>15. Popular music</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -961,28 +639,8 @@
             <container type="box">50</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Part 2 of 2 (of former shipping box 30) - not a precise inventory</item>
-              <item>open reels, cassettes, CDs</item>
-              <item>Mayan languages</item>
-              <item>1. Mam</item>
-              <item>2. Teko</item>
-              <item>3. Uspanteko</item>
-              <item>4. Tzeltal</item>
-              <item>5. Tzotzil, Chamula</item>
-              <item>6. Mocho'</item>
-              <item>7. Itzaj</item>
-              <item>8. Ixil</item>
-              <item>Nawa</item>
-              <item>9. 2 dialects of Nahuatl: TUZ &amp; PIA</item>
-              <item>10. Saudi Arabic</item>
-              <item>11. Chinook Jargon</item>
-              <item>12. Dakota</item>
-              <item>13. Lake Miwok</item>
-              <item>14. Plains Miwok</item>
-              <item>15. Popular music</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -990,11 +648,8 @@
             <container type="box">51</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Wasteko</item>
-              <item>- Reel tapes, CDs, cassettes</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1002,19 +657,8 @@
             <container type="box">52</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PDLMA</item>
-              <item>1. Copainala Soke</item>
-              <item>2. Sayula Popoluca</item>
-              <item>3. Zongolica Nawa</item>
-              <item>4. Yokot'an</item>
-              <item>5. Matlatzinca</item>
-              <item>6. Tlawika</item>
-              <item>7. Ixcateco</item>
-              <item>8. Otlaltepec Popoloca</item>
-              <item>CDs, cassettes, minidiscs, miniDV, Hi-8</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1022,18 +666,8 @@
             <container type="box">53</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PDLMA</item>
-              <item>audio cassettes, CDs, minidisks</item>
-              <item>video hi-8 and mini DV tapes</item>
-              <item>PDLMA photographs on CDs</item>
-              <item>Sapotek Languages:</item>
-              <item>1. Lachixío Zapotec LCH</item>
-              <item>2. Coatlán Zapotec COA</item>
-              <item>3. Atepec Zapotec ATP</item>
-              <item>4. Choapan Zapotec CHO</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1041,11 +675,8 @@
             <container type="box">54</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>1. Totonak Dialect Survey</item>
-              <item>2. PDLMA Totonak CDs, cassettes, 1 hi-8</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1053,27 +684,8 @@
             <container type="box">55</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>PDLMA</item>
-              <item>audio cassettes, CDs, minidisk</item>
-              <item>video hi-8</item>
-              <item>Chatino languages:</item>
-              <item>1. Yaitepec Chatino YAI</item>
-              <item>2. Zenzontepec Chatino ZEN</item>
-              <item>3. Cuixtla Zapotec CUI</item>
-              <item>Tapes with multiple lgs:</item>
-              <item>4. Guichicovi (Isthmus) Zapotec GUI,</item>
-              <item>5. Lachixío Zapotec LCH,</item>
-              <item>6. Zaniza Zapotec ZAN</item>
-              <item>7. PDLMA 2009 text workshop papers and CD</item>
-              <item>misc floppy disks</item>
-              <item>open reels of Mayan lgs:</item>
-              <item>8. Yukateko,</item>
-              <item>9. Tzotzil,</item>
-              <item>10. Chuj</item>
-              <item>11. K'iche'</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1081,14 +693,8 @@
             <container type="box">56</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Veracruz Huastec file slips - 4 boxes</item>
-              <item>- HUA-V 4</item>
-              <item>- HUA-V 5</item>
-              <item>- HUA-V 14</item>
-              <item>- HUA-V 16</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1096,14 +702,8 @@
             <container type="box">57</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Veracruz Huastec file slips - 4 boxes</item>
-              <item>- HUA-V 2</item>
-              <item>- HUA-V 7</item>
-              <item>- HUA-V 10</item>
-              <item>- HUA-V 11</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1111,14 +711,8 @@
             <container type="box">58</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Veracruz Huastec file slips - 4 boxes</item>
-              <item>- HUA-V 1</item>
-              <item>- HUA-V 3</item>
-              <item>- HUA-V 8</item>
-              <item>- HUA-V 12</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1126,12 +720,8 @@
             <container type="box">59</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huastec file slips collected by Catherine Budway in collaboration with Kaufman</item>
-              <item>1 box - not clear which dialect this is (Veracruz or Potosí)</item>
-              <item>HUA 21</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1139,13 +729,8 @@
             <container type="box">60</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Veracruz Huastec file slips - 3 boxes</item>
-              <item>- HUA-V 9</item>
-              <item>- HUA-V 13</item>
-              <item>- HUA-V 17</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1153,15 +738,8 @@
             <container type="box">61</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Veracruz Huastec file slips - 2 boxes</item>
-              <item>- HUA-V 6</item>
-              <item>- HUA-V 15</item>
-              <item>Huastec of Otontepec collected by Catherine Budway collaborating with Kaufman</item>
-              <item>- HUA-22 - ethnobotay</item>
-              <item>- HUA-19 - ethnozoology</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
         <c02 level="file">
@@ -1169,14 +747,8 @@
             <container type="box">62</container>
           </did>
           <scopecontent>
-            <list type="simple">
-              <item>Content:</item>
-              <item>Huastec file slips, 4 boxes</item>
-              <item>- HUA 24 - ethnobotany- various dialects, collected by Kaufman &amp; Budway</item>
-              <item>- HUA 25 - comparative Huastec</item>
-              <item>- HUA 29 - ethnozoology - various dialects</item>
-              <item>- HUA-V - grammatical stuff, Veracruz dialect</item>
-            </list>
+            <list>
+              </list>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
         </c02>
       </c01>
