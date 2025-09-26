@@ -27,8 +27,8 @@
       <unittitle label="Title:" encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</unittitle>
       <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1960/2010" era="ce" calendar="gregorian">1960-2010</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
-        <language langcode="eng" scriptcode="Latn">English</language>
-        <language langcode="spa" scriptcode="Latn">Spanish</language>
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish, </language>
         <language langcode="sai" scriptcode="Latn">Achumawi, </language>
         <language langcode="ara" scriptcode="Latn">Arabic, Saudi, </language>
         <language langcode="sai" scriptcode="Latn">Atsugewi, </language>
@@ -126,7 +126,7 @@
     <accessrestrict encodinganalog="506">
       <head>Access Restrictions</head>
       <p>Boxes 1-13 of this collection are stored remotely. Advance notice is required for retrieval. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="bensonspecialcollections@austin.utexas.edu" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:bensonspecialcollections@austin.utexas.edu">bensonspecialcollections@austin.utexas.edu</extref>.</p>
-        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions or assistance, please contact the AILLA Coordinator at<extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
+        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions or assistance, please contact the AILLA Coordinator at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Use Restrictions</head>
@@ -212,7 +212,11 @@
             <item>Country:</item>
             <item>Mexico</item>
           </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -235,7 +239,11 @@
             <item>Country:</item>
             <item>Mexico</item>
           </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -259,7 +267,12 @@
             <item>Country:</item>
             <item>Mexico</item>
           </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>   
         <c02 level="file">
           <did>
@@ -286,7 +299,10 @@
               <item>Country:</item>
               <item>1-3. United States</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -309,7 +325,11 @@
               <item>Country:</item>
               <item>1-2. United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -332,7 +352,11 @@
               <item>Country:</item>
               <item>1-2. United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -358,7 +382,11 @@
               <item>Country:</item>
               <item>1-2. United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -381,8 +409,12 @@
               <item>Country:</item>
               <item>1-2. United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
           
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -406,7 +438,12 @@
               <item>1. United States</item>
               <item>2. Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -430,7 +467,12 @@
               <item>1. United States</item>
               <item>2. Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -450,7 +492,11 @@
               <item>Country:</item>
               <item>United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -477,7 +523,11 @@
               <item>1. United States and Mexico</item>
               <item>2-3. Brazil</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -497,7 +547,11 @@
               <item>Country:</item>
               <item>United States and Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -525,7 +579,11 @@
               <item>2. Costa Rica</item>
               <item>3. Costa Rica, Colombia, Panama</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -552,7 +610,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -578,7 +640,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -604,7 +670,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -630,7 +700,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -657,7 +731,11 @@
               <item>1. Mexico</item>
               <item>2. United States</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -677,7 +755,10 @@
               <item>Country:</item>
               <item>Costa Rica, Colombia, Panama</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -699,7 +780,11 @@
               <item>Country:</item>
               <item>Guatemala, Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -723,7 +808,11 @@
               <item>1. Central America, northern South America</item>
               <item>2. United States</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -743,7 +832,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -767,7 +860,12 @@
               <item>1. Mexico, United States</item>
               <item>2. Guatemala, Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -787,7 +885,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -809,7 +911,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -835,7 +941,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -860,7 +970,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -885,7 +999,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -920,7 +1038,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -956,7 +1078,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -980,7 +1106,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1004,7 +1134,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1025,7 +1159,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1048,7 +1186,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1068,7 +1210,15 @@
               <item>Country:</item>
               <item>United States, Guatemala, Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1003/">Epigraphy Collection of Terrence Kaufman and John Justeson</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1090,7 +1240,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1112,7 +1266,12 @@
               <item>Country:</item>
               <item>Guatemala, Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1621/">Francisco Marroquín Linguistic Project (PLFM)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1132,7 +1291,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1158,7 +1321,12 @@
               <item>2. Guatemala, Mexico</item>
               <item>3. Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1621/">Francisco Marroquín Linguistic Project (PLFM)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1180,7 +1348,12 @@
               <item>1. Mexico, Guatemala, Beliz</item>
               <item>2. Mexico, United States, Central America</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1213,7 +1386,13 @@
               <item>2. Mexico, United States, Central America</item>
               <item>3-8 Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/802/">Gulf Nahuat Dialect Survey</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1237,7 +1416,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1278,7 +1461,12 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1305,7 +1493,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1332,7 +1524,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1367,7 +1563,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1402,7 +1602,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1457,7 +1661,12 @@
               <item>12-14. United States</item>
               <item>15. unknown</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1512,7 +1721,12 @@
               <item>12-14. United States</item>
               <item>15. unknown</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1532,7 +1746,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1568,7 +1786,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1599,7 +1821,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1620,7 +1846,12 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1242/">Totonac-Tepehua Dialect Survey</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1668,7 +1899,12 @@
               <item>10. Mexico &amp; Guatemala</item>
               <item>11. Guatemala</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1691,7 +1927,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1714,7 +1954,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1737,7 +1981,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1758,7 +2006,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1780,7 +2032,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1804,7 +2060,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
         <c02 level="file">
           <did>
@@ -1827,7 +2087,11 @@
               <item>Country:</item>
               <item>Mexico</item>
             </list>
-            <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
         </c02>
       </c01>
     </dsc>
