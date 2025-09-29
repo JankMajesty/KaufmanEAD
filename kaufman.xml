@@ -160,12 +160,12 @@
       <controlaccess>
         <head>Subjects (Persons)</head>
         <persname source="lcnaf" encodinganalog="600">Kaufman, Terrence, 1937-2022</persname>
-        <persname source="lcnaf" encodinganalog="600">England, Nora, 1946-2022</persname>
+        <persname source="lcnaf" encodinganalog="600">England, Nora C.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects (Organizations)</head>
         <corpname source="lcnaf" encodinganalog="610">Proyecto Lingüístico Francisco Marroquín</corpname>
-        <corpname source="lcnaf" encodinganalog="610">Project for the Documentation of the Languages of MesoAmerica</corpname>
+        <corpname source="local" encodinganalog="610">Project for the Documentation of the Languages of MesoAmerica</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Pittsburgh</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Chicago</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of California Berkeley</corpname>
@@ -328,7 +328,7 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>1-2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
             </list>
           </scopecontent>
         </c02>
@@ -355,7 +355,7 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>1-2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
             </list>
           </scopecontent>
         </c02>
@@ -385,7 +385,8 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. Not in AILLA</item>
             </list>
           </scopecontent>
         </c02>
@@ -412,7 +413,8 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. Not in AILLA</item>
             </list>
           
           </scopecontent>
@@ -441,8 +443,8 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
             </list>
           </scopecontent>
         </c02>
@@ -470,8 +472,8 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
             </list>
           </scopecontent>
         </c02>
@@ -526,7 +528,7 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>1-3. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
             </list>
           </scopecontent>
         </c02>
@@ -582,8 +584,8 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
-              <item>Not in AILLA</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2-3. Not in AILLA</item>
             </list>
           </scopecontent>
         </c02>
@@ -735,7 +737,7 @@
             </list>
             <list type="simple">
               <item>Digital collection:</item>
-              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">1. Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">1. Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
               <item>2. Not in AILLA</item>  
             </list>
           </scopecontent>
