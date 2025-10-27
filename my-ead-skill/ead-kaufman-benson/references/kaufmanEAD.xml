@@ -1,0 +1,2137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd">
+  <!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="unverified-partial-draft" relatedencoding="MARC21">
+    <eadid mainagencycode="US-txula" countrycode="US" encodinganalog="856$u" url="https://txarchives.org/utlac/finding_aids/00433.xml">urn:taro:utexas.blac.00433</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</titleproper>
+        <author encodinganalog="245$c">Benson Latin American Collection</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Texas Libraries, </publisher>
+        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2025">2025</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Lucas McGill, <date>2025</date></creation>
+      <langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="Latn">English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Descriptive Summary</head>
+      <origination label="Creator:">
+        <persname source="lcnaf" encodinganalog="100">Kaufman, Terrence, 1937-2022</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Terrence Kaufman Preliminary Inventory</unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1960/2010" era="ce" calendar="gregorian">1960-2010</unitdate>
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish, </language>
+        <language langcode="sai" scriptcode="Latn">Achumawi, </language>
+        <language langcode="ara" scriptcode="Latn">Arabic, Saudi, </language>
+        <language langcode="sai" scriptcode="Latn">Atsugewi, </language>
+        <language langcode="sai" scriptcode="Latn">Bribri, </language>
+        <language langcode="sai" scriptcode="Latn">Chatino, Eastern, Santiago Yaitepec, </language>
+        <language langcode="sai" scriptcode="Latn">Chatino, Zonzontepec, </language>
+        <language langcode="sai" scriptcode="Latn">Chimariko, </language>
+        <language langcode="sai" scriptcode="Latn">Chinook Jargon, </language>
+        <language langcode="sai" scriptcode="Latn">Chuj, </language>
+        <language langcode="sai" scriptcode="Latn">Cupeño, </language>
+        <language langcode="sai" scriptcode="Latn">Dakota, </language>
+        <language langcode="sai" scriptcode="Latn">Dení, </language>
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="sai" scriptcode="Latn">Hopi, </language>
+        <language langcode="sai" scriptcode="Latn">Huastec (Mayan), </language>
+        <language langcode="sai" scriptcode="Latn">Itza’, </language>
+        <language langcode="sai" scriptcode="Latn">Ixcatec, </language>
+        <language langcode="sai" scriptcode="Latn">Ixil, </language>
+        <language langcode="sai" scriptcode="Latn">K’iche’, </language>
+        <language langcode="sai" scriptcode="Latn">Lacandon, </language>
+        <language langcode="sai" scriptcode="Latn">Matlatzinca, </language>
+        <language langcode="sai" scriptcode="Latn">Mam, </language>
+        <language langcode="sai" scriptcode="Latn">Miwok, Lake, </language>
+        <language langcode="sai" scriptcode="Latn">Miwok, Plains, </language>
+        <language langcode="sai" scriptcode="Latn">Mixe, Isthmus, </language>
+        <language langcode="sai" scriptcode="Latn">Mixe, Totontepec, </language>
+        <language langcode="sai" scriptcode="Latn">Mocho, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Central Huasteca, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Eastern Huasteca, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Highland Puebla, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Istmo-Pajapan, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Istmo-Mecayapan, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Sierra de Zongalica, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Tabasco, </language>
+        <language langcode="sai" scriptcode="Latn">Nahuatl, Western Huasteca, </language>
+        <language langcode="sai" scriptcode="Latn">Popoluca, Oluta, </language>
+        <language langcode="sai" scriptcode="Latn">Popoluca, San Felipe Otlaltepec, </language>
+        <language langcode="sai" scriptcode="Latn">Popoluca, Sayula, </language>
+        <language langcode="sai" scriptcode="Latn">Serrano, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish, </language>
+        <language langcode="sai" scriptcode="Latn">Suruí, </language>
+        <language langcode="sai" scriptcode="Latn">Tektiteko, </language>
+        <language langcode="sai" scriptcode="Latn">Tepehua, Huehuetla, </language>
+        <language langcode="sai" scriptcode="Latn">Tlahuica, </language>
+        <language langcode="sai" scriptcode="Latn">Totonac, Highland, </language>
+        <language langcode="sai" scriptcode="Latn">Tubatulabal, </language>
+        <language langcode="sai" scriptcode="Latn">Tzeltal, </language>
+        <language langcode="sai" scriptcode="Latn">Tzotzil, </language>
+        <language langcode="sai" scriptcode="Latn">Uspanteko, </language>
+        <language langcode="sai" scriptcode="Latn">Yokot’an (Chontal, Tabasco), </language>
+        <language langcode="sai" scriptcode="Latn">Yucatec (Maya), </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Atepec, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Choapan, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Coatlán, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Eastern, Santiago Cuixtla, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Lachixío, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotec, Zaniza, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Ayapaneco, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Copainalá, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, San Miguel Chimalapa, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Santa María Chimalapa, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Soteapan, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Tecpatán, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, Texistepec</language>
+        <language langcode="sai" scriptcode="Latn">Chibchan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Hokan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Mayan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Mixe-Zoquean Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Otomanguean Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Pomoan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Totonac-Tepehua Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Uto-Aztecan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Zapotecan Language Family</language>
+      </langmaterial>
+      <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2022-40</unitid>
+      <physdesc label="Extent:" encodinganalog="300$a"><extent>62 linear feet</extent></physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
+          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
+        </extref>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a">This collection represents fifty years of linguistic research carried out by Terrence Kaufman, a linguistic anthropologist on languages of the Americas, especially Mexico and Guatemala. Materials include Kaufman’s compiled archival and library research and his vast amount of original field work, including his independent research on Huasteca Nahuatl, Huastec (Maya), and other Mayan languages of Mexico and Guatemala, and two large research projects he directed, the Proyecto Lingüístico Francisco Marroquín (PLFM, Guatemala, 1970s) and the Project for the Documentation of the Languages of MesoAmerica (PDLMA, Mexico, 1993-2010). Digitized versions of much of this collection are available in the Archive of the Indigenous Languages of Latin America (AILLA).</abstract>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Terrence Kaufman (1937-2022) was an American linguistic anthropologist who specialized in historical linguistics, language contact, and lexicography of un/under-documented languages of the world. The focus of the portion of his collection that is in the Benson Latin American Collection is on Mexico and Guatemala, with additional materials from other parts of North and Central America, and, to a much lesser extent, South America. His research on Germanic, Romani, Celtic, Semitic, and Indo-European languages is located at the Library of the American Philosophical Society.</p>
+      <p>As an undergraduate at the University of Chicago, 1957-1959, he majored in Linguistics and Germanic languages, and he developed interests in English dialects, Romani, Austronesian, and Algonquian languages. In 1959-1960, as a student research assistant for Normal McQuown, he developed his life-long interests in Mayan and Mixe-Zoquen languages. Kaufman conducted his first field work in Chiapas, Mexico, from March to September of 1960, where he worked on Tzeltal of Aguacatenango and Tenejapa and Tzotzil of Chamula. He completed his graduate studies at the University of California Berkeley from 1960-1963. For his PhD dissertation (1963), he wrote a grammar of Tzeltal of Aguacatenango. During his long and distinguished career, he taught at Ohio State University (1963-1964), UC Berkeley (1964-1970), and the University of Pittsburgh (1970-2011). From 1970 through 2010 he spent nearly every summer doing field work in Mesoamerica; exceptions were 1975, 1985, 1988, 1989, 1991, and 1992. Much of his field work was grant funded, including grants from the National Science Foundation (NSF), the Foundation for the Advancement of Mesoamerican Studies (FAMSI), the Mexican Instituto Nacional de Lenguas Indígenas (INALI), and the National Geographic (NatGeo). However, all of his field work on Huastec (Mayan) and Huasteca Nahuatl was self-funded.</p>
+      <p>From 1970-1979 Kaufman directed the Proyecto Lingüístico Francisco Marroquín (PLFM) in Antigua, Guatemala; the mission of the PLFM was to train native speakers of Mayan languages to conduct linguistic research on their own languages and the goal was a comprehensive survey of all Mayan languages in the country. The PLFM was staffed by US Peace Corps volunteers with higher degrees in anthropology and linguistics and paid Guatemalan native speakers of Mayan languages who, together, were tasked with carrying out a country-wide language survey to determine the extent of the linguistic variation in the Mayan languages, as well as their geographic boundaries and genetic and areal relationships. To carry out this work, project members devised a single orthographical system in 1970 that they used for all the languages they investigated. In 1989, a commission appointed by the government of Guatemala approved and officialized, except in one detail, the orthography promoted by the PLFM.</p>
+      <p>From 1993 to 2010, Kaufman co-directed the Project for the Documentation of the Languages of Latin America in Mexico. This project focused mainly on Zapotecan and Mixe-Zoquean languages, but also included a few Mayan languages and one language each from the Totonac-Tepehua language family. Mexico- and US-based volunteer linguistics and linguistic anthropologists (both students and faculty) were paired with paid native speakers of these languages every summer to conduct lexical research aimed at producing dictionaries of these languages. The dictionaries were supposed to be published by the Mexican Instituto Nacional de Lenguas Indígenas (INALI), but this did not happen due to a change in INALI administration. Many of the boxes of file slips in this collection are, essentially, the first drafts of these unpublished dictionaries.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <p>The collection contains audio recordings (cassettes, open-reels, MiniDiscs, CDs), video recordings (Hi-8, miniDV), photographs (CDs), handwritten and printed notes, papers, handouts, administrative documents, and dozens of boxes of lexical file slips. Digital copies of most materials are available in AILLA.</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Boxes 1-13 of this collection are stored remotely. Advance notice is required for retrieval. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="bensonspecialcollections@austin.utexas.edu" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:bensonspecialcollections@austin.utexas.edu">bensonspecialcollections@austin.utexas.edu</extref>.</p>
+        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions or assistance, please contact the AILLA Coordinator at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Intellectual property rights and indigenous community rights restrictions apply. Educational use and/or non-commercial use may be permitted. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Terrence Kaufman Collection, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Donation.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>This collection is not processed.</p>
+		</processinfo>
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>Additional materials will be added to this collection once digitization work is complete.</p>
+    </accruals>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00433.xml">Archive of the Indigenous Languages of Latin America (AILLA) Collection </archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00576.xml">Nora England Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00501.xml">Linda Schele Papers</archref></p>
+     
+    </relatedmaterial>
+    <controlaccess>
+      <head>Index Terms</head>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Kaufman, Terrence, 1937-2022</persname>
+        <persname source="lcnaf" encodinganalog="600">England, Nora C.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">Proyecto Lingüístico Francisco Marroquín</corpname>
+        <corpname source="local" encodinganalog="610">Project for the Documentation of the Languages of MesoAmerica</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Pittsburgh</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Chicago</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of California Berkeley</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Linguistic anthropology</subject>
+        <subject source="lcsh" encodinganalog="650">Historical linguistics</subject>
+        <subject source="lcsh" encodinganalog="650">Language documentation</subject>
+        <subject source="lcsh" encodinganalog="650">Indigenous languages of the Americas</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcsh" encodinganalog="651">United States</geogname>
+        <geogname source="lcsh" encodinganalog="651">Mexico</geogname>
+        <geogname source="lcsh" encodinganalog="651">Guatemala</geogname>
+        <geogname source="lcsh" encodinganalog="651">Mesoamerica</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <head>Box Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Terrence Kaufman Preliminary Inventory</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            </did>
+          <scopecontent>
+          <list type="simple">
+            <item>Content:</item>
+            <item>Tacuapan Nahuat</item>
+            <item>- 1 fileslip box 2002, 2009</item>
+            <item>- 2 fileslip box 2002</item>
+            <item>- 1 fileslip box 2004 with 0.5"" fileslips, 7 CDs, 1 audio cassette, 1 mini-DV</item>
+            <item>- 1 folder of loose papers</item>
+          </list>
+          <list type="simple">
+            <item>Language Name:</item>
+            <item>Nahuatl, Highland Puebla</item>
+          </list>
+          <list type="simple">
+            <item>Country:</item>
+            <item>Mexico</item>
+          </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+          </did>
+          <scopecontent>
+          <list type="simple">
+            <item>Content:</item>
+            <item>Lacadon</item>
+            <item>- 1 fileslip box 2005</item>
+            <item>- 3 undated fileslip boxes</item>
+            <item>- 3 folders of paper, each containing photocopies of a notebook</item>
+          </list>
+          <list type="simple">
+            <item>Language Name:</item>
+            <item>Lacandon</item>
+          </list>
+          <list type="simple">
+            <item>Country:</item>
+            <item>Mexico</item>
+          </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+          </did>
+          <scopecontent>
+          <list type="simple">
+            <item>Content:</item>
+            <item>Lacandon</item>
+            <item>- 19 CDs</item>
+            <item>- 8 audio cassettes</item>
+            <item>- 3 reels</item>
+            <item>- 4 minidiscs</item>
+          </list>
+          <list type="simple">
+            <item>Language Name:</item>
+            <item>Lacandon</item>
+          </list>
+          <list type="simple">
+            <item>Country:</item>
+            <item>Mexico</item>
+          </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>   
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Atsugewi</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Achumawi</item>
+              <item>- 1 box of file slips</item>
+              <item>3. Chimariko</item>
+              <item>- 2 boxes of file slips labeled ""Chimariko I"" and ""Chimariko II""</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Atsugewi</item>
+              <item>2. Achumawi</item>
+              <item>3. Chimariko</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-3. United States</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>Not in AILLA</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Comparative Uto-Aztecan, Numic branch</item>
+              <item>- 1 box of file slips (box 2 of 2)</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Uto-Aztecan language family, Numic branch</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-2. United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>Note: Kaufman compiled these file slips from published or archival materials. They were deemed to be out of scope for AILLA.</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Comparative Uto-Aztecan, Numic branch</item>
+              <item>- 1 box of file slips (box 1 of 2)</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Uto-Aztecan language family, Numic branch</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-2. United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Hopi, Tubatulabal, Serrano, Cupeño</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Hopi,</item>
+              <item>2. Tubatulabal,</item>
+              <item>2. Serrano,</item>
+              <item>2. Cupeño</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-2. United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. Not in AILLA</item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>Only the comparative Hokan fileslips were scanned and added to AILLA. All other materials were deem out of scope.</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Uto-Aztecan, Sonoran branch</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Uto-Aztecan language family, Sonoran branch</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-2. United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. Not in AILLA</item>
+            </list>
+          
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">9</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Pomoan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Aguacatenango Tzeltal</item>
+              <item>- 1 box of fileslips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Pomoan language family (a subgroup of the controversial and hypothetical Hokan language family</item>
+              <item>2. Tzeltal</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. United States</item>
+              <item>2. Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">10</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Pomoan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Aguacatenango Tzeltal</item>
+              <item>- 1 box of fileslips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Pomoan language family (a subgroup of the controversial and hypothetical Hokan language family</item>
+              <item>2. Tzeltal</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. United States</item>
+              <item>2. Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">11</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Hokan (a controversially hypothetical) language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">12</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Dení</item>
+              <item>- 1 box of file slips</item>
+              <item>3. Suruí</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Dení</item>
+              <item>3. Suruí</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. United States and Mexico</item>
+              <item>2-3. Brazil</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-3. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Hokan (a controversially hypothetical) language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>United States and Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Comparative Hokan</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Bribri</item>
+              <item>- 1 box of file slips</item>
+              <item>3. Chibcha</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Hokan (a controversially hypothetical) language family</item>
+              <item>2. Bribri</item>
+              <item>3. Chibchan language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. United States and Mexico</item>
+              <item>2. Costa Rica</item>
+              <item>3. Costa Rica, Colombia, Panama</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2-3. Not in AILLA</item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>2. Bribri file slips were deemed to be out of scope because they were not Kaufman's original work. He copied them from another source. </item>
+              <item>3. Chibchan file slips were deemed to be out of scope because they were not Kaufman's original work. He copied them from another source. </item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">15</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>- 4 boxes of files slips</item>
+              <item>-- 1 of 18 Kinterms names sickness</item>
+              <item>-- 2 of 18 Nahua Plants</item>
+              <item>-- 3 of 18 SP loans</item>
+              <item>-- 4 of 18 Herbs &amp; Vines</item>
+              <item>- 1 folder of papers on Nawa Roots</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Central Huasteca</item>
+              <item>Nahuatl, Eastern Huasteca</item>
+              <item>Nahuatl, Western Huasteca</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">16</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>- 4 boxes of files slips</item>
+              <item>-- 5 of 18 Trees</item>
+              <item>-- 6 of 18 Bugs</item>
+              <item>-- 7 of 18 Nahua animals</item>
+              <item>-- 8 of 18 ...A:WAK SYMBOLIC</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Central Huasteca</item>
+              <item>Nahuatl, Eastern Huasteca</item>
+              <item>Nahuatl, Western Huasteca</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">17</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>- 4 boxes of files slips</item>
+              <item>-- 9 of 18 A-H</item>
+              <item>-- 10 of 18 I</item>
+              <item>-- 11 of 18 K</item>
+              <item>-- 12 of 18 KW-L</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Central Huasteca</item>
+              <item>Nahuatl, Eastern Huasteca</item>
+              <item>Nahuatl, Western Huasteca</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">18</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huasteca Nahuatl</item>
+              <item>- 4 boxes of files slips</item>
+              <item>-- 13 of 18 M</item>
+              <item>-- 14 of 18 N-O-R-RR-J</item>
+              <item>-- 15 of 18 P</item>
+              <item>-- 16 of 18 T</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Central Huasteca</item>
+              <item>Nahuatl, Eastern Huasteca</item>
+              <item>Nahuatl, Western Huasteca</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">19</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Huasteca Nahuatl</item>
+              <item>-- 17 of 18 TL-TZ</item>
+              <item>-- 18 of 18 W-X</item>
+              <item>2. Takic Cognate Sets</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Nahuatl, Central Huasteca</item>
+              <item>1. Nahuatl, Eastern Huasteca</item>
+              <item>1. Nahuatl, Western Huasteca</item>
+              <item>2. Uto-Aztecan language family, Takic branch</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Mexico</item>
+              <item>2. United States</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">1. Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item>2. Not in AILLA</item>  
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>Takic and Chibchan file slips were deemed to be out of scope because they were not Kaufman's original work. He copied the contents of the fileslips from other sources.</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">20</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Chibchan</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Chibchan language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Costa Rica, Colombia, Panama</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>Not in AILLA</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">21</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Teko</item>
+              <item>- 2 boxes of file slips</item>
+              <item>-- Teko A-I</item>
+              <item>-- Teko K-O</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Tektiteko</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Guatemala, Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>1. Cariban file slips were deemed to be out of scope because they were not Kaufman's original work. He copied the contents of the fileslips from another source.</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">22</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Kariban</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Yuman Etymologies - A. Swofford</item>
+              <item>- 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Cariban language family</item>
+              <item>2. Yuman-Chochimí language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Central America, northern South America</item>
+              <item>2. United States</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. Not in AILLA</item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">23</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Yaitepec Chatino</item>
+              <item>- 4 boxes of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Chatino, Eastern, Santiago Yaitepec</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">24</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Yutanawa Cognate Sets</item>
+              <item>- 1 box of file slips</item>
+              <item>2. Teko</item>
+              <item>- 1 box of file slips Teko P-Y</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Uto-Aztecan language family</item>
+              <item>2. Tektiteko</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Mexico, United States</item>
+              <item>2. Guatemala, Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">25</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Pajapan Nawat</item>
+              <item>- 2 boxes of file slips dated 2002</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Istmo-Pajapan</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">26</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Zenzontepec Chatino</item>
+              <item>- 2 boxes of file slips</item>
+              <item>-- 1 dated 2007</item>
+              <item>-- 1 dated 2007/08</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Chatino, Zonzontepec</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">27</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Zenzontepec Chatino</item>
+              <item>- 1 box of file slips dated 2009</item>
+              <item>2. Matlatzinca</item>
+              <item>- 1 box of file slips</item>
+              <item>3. Worklogs</item>
+              <item>- 8 folders of approx. 4 inches of paper dated 2000, 2004, 2010</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Chatino, Zonzontepec</item>
+              <item>2. Matlatzinca</item>
+              <item>3. Worklogs written by the project members of the Project for the Documentation of the Languages of MesoAmerica</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">28</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>- 2 boxes of file slips</item>
+              <item>-- MTL</item>
+              <item>-- MTL Ethnobotany</item>
+              <item>Memos</item>
+              <item>- 2 folders of approx. 1 inch of paper dated 1996</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. Administrative memos from the Project for the Documentation of the Languages of MesoAmerica, written in Spanish and/or English</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">29</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>- 2 boxes of file slip</item>
+              <item>-- MTL Animals-- Grammar-- [also includes approx 10 pp. of notes on verb inflection]</item>
+              <item>-- MTL Nouns 7a-</item>
+              <item>Worklogs</item>
+              <item>- 2 folders of approx. 1.5 inches of paper dated 2005 and 2007</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. Worklogs written in English and/or Spanish by the project members of the PDLMA</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">30</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Matlatzinca</item>
+              <item>- 4 boxes of file slips</item>
+              <item>-- MTL - Nouns-</item>
+              <item>-- MTL Nouns t-</item>
+              <item>-- MTL - Tu verbs 2 of 4 (7a-r)</item>
+              <item>-- MTL Verbs + misc. N-F 3 of 4</item>
+              <item>Memos</item>
+              <item>- 8 folders and loose sheets totalling approx. 1.5 inches of paper</item>
+              <item>--Memos, etc 2004</item>
+              <item>-- PDLMA memos</item>
+              <item>-- T-shirt</item>
+              <item>-- Admin 2009</item>
+              <item>-- Misc. 2010</item>
+              <item>-- Fortín 2010 Admin &amp; Photos</item>
+              <item>-- Memos PDLMA 2000 &amp; Correspondence</item>
+              <item>-- Memos 2000</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. PDLMA Administrative memos written in Spanish and/or English</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">31</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Matlatzinca</item>
+              <item>- 3 boxes of files slips</item>
+              <item>-- MTL re verbs (all) &amp; tu verbs (s-end) (box 4 of 4 and box 10 of 14 total)</item>
+              <item>--- 1 small box of file slips that did not fit bac into box 10 of 14 after scanning</item>
+              <item>-- MTL verbs-- M to T 2-4 (box 2 of 4 and box 11 of 14 total)</item>
+              <item>Miscellaneous PDLMA papers</item>
+              <item>2. - Mayan Group</item>
+              <item>3. - Totonacan Group</item>
+              <item>4. - receipts &amp; misc papers</item>
+              <item>5. - AAA paper handout</item>
+              <item>6. - PDLMA 2004 symposium</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. Lacandon and</item>
+              <item>2. Yokot'an (Chontal, Tabasco)</item>
+              <item>3. Tepehua, Hueheutla and</item>
+              <item>3. Totonac, Highland</item>
+              <item>4. English and Spanish</item>
+              <item>5. English</item>
+              <item>6. Various Indigenous languages of Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>1-3. The Project for the Documentation of the Languages of MesoAmerica (PDLMA).</item>
+              <item>3. The Mixe-Zoque Group of the PDLMA consisted of all project linguistics who were working on languages belonging to the Mixe-Zoquean language family. Kaufman wrote this language family as "Mije-Soke".</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">32</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Matlatzinca</item>
+              <item>- 2 boxes of files slips</item>
+              <item>-- MTL 99 1/2 (box 13 of 14 total)</item>
+              <item>-- MTL verbs (w-y) (box 12 of 14 total)</item>
+              <item>2. Mixe-Zoque Diachronic Studies</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. Mixe-Zoque language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">33</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Huehuetla Tepewa</item>
+              <item>- 2 boxes of file slips</item>
+              <item>-- TPW 2000</item>
+              <item>-- TPW</item>
+              <item>2. Zapotecan group folders</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Tepehua, Huehuetla</item>
+              <item>2. Zapotecan language family</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">34</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Matlatzinca - 1 box of file slips - MTL 99 2/2</item>
+              <item>2. Huehuetla Tepewa - 1 box of file slips</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Matlatzinca</item>
+              <item>2. Tepehua, Huehuetla</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">35</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Pajapan Nawat</item>
+              <item>- 4 boxes of file slips</item>
+              <item>-- 2 dated 2003</item>
+              <item>-- 2 dated 2004</item>
+              <item>- PAJ notes</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Istmo-Pajapan</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">36</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>TK misc. writings and handouts</item>
+              <item>TK course materials - papers</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Various Indigenous languages, English, Spanish</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>United States, Guatemala, Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item>3. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials Collection of Terrence Kaufman</archref></item>
+              <item>4. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item>5. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1003/">Epigraphy Collection of Terrence Kaufman and John Justeson</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">37</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huehuetla Tepewa</item>
+              <item>- 2 boxes of file slips</item>
+              <item>-- 1 dated 2005</item>
+              <item>-- 1 undated</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Tepehua, Huehuetla</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">38</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PLFM papers and Kaufman's papers on Mayan Languages</item>
+              <item>- Non-survey or questionnaire papers</item>
+              <item>- Maya Vocabulary Survey</item>
+              <item>- Misc papers by project members</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Mayan languages of Mexico and Guatemala</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Guatemala, Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1621/">Francisco Marroquín Linguistic Project (PLFM)</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">39</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Kaufman's papers on Otomanguean languages and the proto language family.</item>
+              <item>Comparative Otomanguean</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Otomanguean languages of Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">40</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. PLFM</item>
+              <item>- Cuestionario Linguistico (Guatemalan Maya Dialect Survey)</item>
+              <item>2. TKC Teko transcription</item>
+              <item>3. TKC Mocho texts and papers</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Mayan languages in Guatemala</item>
+              <item>2. Tektiteko</item>
+              <item>3. Mocho'</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Guatemala</item>
+              <item>2. Guatemala, Mexico</item>
+              <item>3. Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1621/">Francisco Marroquín Linguistic Project (PLFM)</archref></item>
+              <item>2-3. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">41</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. MesoAmerican Writing course recordings, syllabi - cassettes, paper</item>
+              <item>2. Language and Prehistory in MesoAmerica course recordings- casettes</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Course: Mesoamerican Writing Systems</item>
+              <item>2. Course: Language and Prehisotry in Mesoamerica</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Mexico, Guatemala, Beliz</item>
+              <item>2. Mexico, United States, Central America</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials of Terrence Kaufman</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">Educational Materials of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">42</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. MesoAmerican Writing course recordings - CDs</item>
+              <item>2. Language and Prehistory in MesoAmerica course recordings - CDs</item>
+              <item>3. PDLMA Ethnomedicine - CDs</item>
+              <item>4. PDLMA Traditional Knowledge Workshop (Taller de sabiduría) - CDs</item>
+              <item>5. PDLMA Zapotec Group - Tone presentations  - CDs, papers</item>
+              <item>6. PDLMA Guichicovi Mije - CDs, minidiscs, cassettes</item>
+              <item>7. Gulf Nawat Survey CDs</item>
+              <item>8. Trio Microsónicos - Canciones Teenek Taucanhuitz CD</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Course: Mesoamerican Writing Systems</item>
+              <item>2. Course: Language and Prehisotry in Mesoamerica</item>
+              <item>3-5. Various Indigenous languages of Mexico</item>
+              <item>6. Mixe, Isthmus</item>
+              <item>7. Nahuatl language spoken in the Isthmus Gulf of Mexico (Veracruz, Tabasco)</item>
+              <item>8. Huastec Mayan</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1. Mexico, Guatemala, Beliz</item>
+              <item>2. Mexico, United States, Central America</item>
+              <item>3-8 Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/684/">1-2. Educational Materials of Terrence Kaufman</archref></item>
+              <item>3-6. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">3-6. The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item>7. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/802/">7. Gulf Nahuat Dialect Survey</archref></item>
+              <item>8. Not in AILLA</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">43</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huasteca Nahuatl papers</item>
+              <item>Nahuatl, Western Huasteca (NAW-COX Coxcatlán Nahuatl)</item>
+              <item>- cassettes, CDs</item>
+              <item>Eastern Huasteca Nahuatl (NAW-AJO Los Ajos, Tantoyuca; NAW-CHI Agua Fría, Chicontepc; NAW-CHO Chontla, Tamazunchale, San Luis Potosí)</item>
+              <item>-  cassettes, CDs</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Nahuatl, Western Huasteca</item>
+              <item>Nahuatl, Eastern Huasteca</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">44</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. PDLMA Spanish Loanwords Workshops</item>
+              <item>- Paper, minidiscs, CD</item>
+              <item>2. PDLMA Ethonobiology Workshops</item>
+              <item>- Paper, miniDV</item>
+              <item>3. PDLMA Sound Symbolism Workshops</item>
+              <item>- Paper, CDs, minidiscs</item>
+              <item>4. PDLMA Escritura Zapoteca Workshops</item>
+              <item>-Hi8 video, CDs</item>
+              <item>5. PDLMA Miscellaneous (BRR worklog, library list, clausura)</item>
+              <item>-CDs</item>
+              <item>6. PDLMA Mije-Soke Group</item>
+              <item>- papers</item>
+              <item>7. PDLMA Nahuatl language (Mecayapan, Paso (de) Cupilco, Pajapan)</item>
+              <item>- cassettes, CDs, papers</item>
+              <item>8. (Not PDLM) Kaufman presentation on ""Olmecs, Teotihuacaner, and Tolecs: Language History and Language Contact in Mesoamerica"" on 2013-01-23 in Austin, Texas</item>
+              <item>-miniDV videos</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1-3. Various PDLMA languages</item>
+              <item>2. Zapotec language family</item>
+              <item>5. Spanish and/or English</item>
+              <item>6. Mixe-Zoque language family</item>
+              <item>7. Nahuatl, Istmo-Pajapan;</item>
+              <item>7. Nahuatl, Istmo-Mecayapan</item>
+              <item>7. Nahuatl, Tabasco</item>
+              <item>8. Various Mesoamerican languages</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-7. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item>8. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">45</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PDLMA</item>
+              <item>1. Oluta Mije CDs</item>
+              <item>2. Totontepec Mije CDs</item>
+              <item>3. Texistepec Popoluca CDs</item>
+              <item>4. Excursion to Reserva Biologica</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>All CDs are from the PDLMA</item>
+              <item>1. Popoluca, Oluta</item>
+              <item>2. Mixe, Totontepec</item>
+              <item>3. Zoque, Texistepec</item>
+              <item>4. Various Indigenous languages of Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">46</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PDLMA</item>
+              <item>1. Oluta Mije cassettees, papers</item>
+              <item>2. Totontepec Mije minidiscs</item>
+              <item>3. Texistepec Popoluca ??</item>
+              <item>4. Excursion to Reserva Biologica</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>All CDs are from the PDLMA</item>
+              <item>1. Popoluca, Oluta</item>
+              <item>2. Mixe, Totontepec</item>
+              <item>3. Zoque, Texistepec</item>
+              <item>4. Various Indigenous languages of Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">47</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Part 1 of 2 (of former shipping box 29)</item>
+              <item>PDLMA</item>
+              <item>1.Chimalapa Soke audio</item>
+              <item>- Santa María (MAR) dialect</item>
+              <item>- San Miguel (MIG) dialect</item>
+              <item>-CDs, cassettes, minidiscs</item>
+              <item>2. Ayapaneko</item>
+              <item>- CDs, cassettes</item>
+              <item>3. Soteapan</item>
+              <item>- CDs, cassettes, minidics</item>
+              <item>4. Tecpatán Soke</item>
+              <item>- CDs, cassettes, two notebooks</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Everything is from the PDLMA</item>
+              <item>1. Zoque, Santa María Chimalapa and</item>
+              <item>1. Zoque, San Miguel Chimalapa</item>
+              <item>2. Zoque, Ayapaneco</item>
+              <item>3. Zoque, Soteapan</item>
+              <item>4. Zoque, Tecpatán</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">48</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Part 2 of 2 (of former shipping box 29)</item>
+              <item>PDLMA</item>
+              <item>1. Chimalapa Soke audio</item>
+              <item>- Santa María (MAR) dialect</item>
+              <item>- San Miguel (MIG) dialect</item>
+              <item>-CDs, cassettes, minidiscs</item>
+              <item>2. Ayapaneko</item>
+              <item>- CDs, cassettes</item>
+              <item>3. Soteapan</item>
+              <item>- CDs, cassettes, minidics</item>
+              <item>4. Tecpatán Soke</item>
+              <item>- CDs, cassettes, two notebooks</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Everything is from the PDLMA</item>
+              <item>1. Zoque, Santa María Chimalapa and</item>
+              <item>1. Zoque, San Miguel Chimalapa</item>
+              <item>2. Zoque, Ayapaneco</item>
+              <item>3. Zoque, Soteapan</item>
+              <item>4. Zoque, Tecpatán</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">49</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Part 1 of 2 (of former shipping box 30) - not a precise inventory</item>
+              <item>open reels, cassettes, CDs</item>
+              <item>Mayan languages</item>
+              <item>1. Mam</item>
+              <item>2. Teko</item>
+              <item>3. Uspanteko</item>
+              <item>4. Tzeltal</item>
+              <item>5. Tzotzil, Chamula</item>
+              <item>6. Mocho'</item>
+              <item>7. Itzaj</item>
+              <item>8. Ixil</item>
+              <item>Nawa</item>
+              <item>9. 2 dialects of Nahuatl: TUZ &amp; PIA</item>
+              <item>10. Saudi Arabic</item>
+              <item>11. Chinook Jargon</item>
+              <item>12. Dakota</item>
+              <item>13. Lake Miwok</item>
+              <item>14. Plains Miwok</item>
+              <item>15. Popular music</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Mam</item>
+              <item>2. Tektiteko</item>
+              <item>3. Uspanteko</item>
+              <item>4. Tzeltal</item>
+              <item>5. Tzotzil</item>
+              <item>6. Mocho</item>
+              <item>7. Itza'</item>
+              <item>8. Ixil</item>
+              <item>9. Nahuatl, Western Huasteca</item>
+              <item>10. Arabic, Saudi</item>
+              <item>11. Chinook Jargon</item>
+              <item>12. Dakota</item>
+              <item>13. Miwok, Lake</item>
+              <item>14. Miwok, Plains</item>
+              <item>15. music</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-9. Guatemala, Mexico</item>
+              <item>10. Saudi Arabia</item>
+              <item>11. United States &amp; Canada</item>
+              <item>12-14. United States</item>
+              <item>15. unknown</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-8. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">1-8. Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item>9. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">9. Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item>10-15. Not in AILLA</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">50</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Part 2 of 2 (of former shipping box 30) - not a precise inventory</item>
+              <item>open reels, cassettes, CDs</item>
+              <item>Mayan languages</item>
+              <item>1. Mam</item>
+              <item>2. Teko</item>
+              <item>3. Uspanteko</item>
+              <item>4. Tzeltal</item>
+              <item>5. Tzotzil, Chamula</item>
+              <item>6. Mocho'</item>
+              <item>7. Itzaj</item>
+              <item>8. Ixil</item>
+              <item>Nawa</item>
+              <item>9. 2 dialects of Nahuatl: TUZ &amp; PIA</item>
+              <item>10. Saudi Arabic</item>
+              <item>11. Chinook Jargon</item>
+              <item>12. Dakota</item>
+              <item>13. Lake Miwok</item>
+              <item>14. Plains Miwok</item>
+              <item>15. Popular music</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Mam</item>
+              <item>2. Tektiteko</item>
+              <item>3. Uspanteko</item>
+              <item>4. Tzeltal</item>
+              <item>5. Tzotzil of Chamula</item>
+              <item>6. Mocho</item>
+              <item>7. Itza'</item>
+              <item>8. Ixil</item>
+              <item>9. Nahuatl, Western Huasteca</item>
+              <item>10. Arabic, Saudi</item>
+              <item>11. Chinook Jargon</item>
+              <item>12. Dakota</item>
+              <item>13. Miwok, Lake</item>
+              <item>14. Miwok, Plains</item>
+              <item>15. music</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-9. Guatemala, Mexico</item>
+              <item>10. Saudi Arabia</item>
+              <item>11. United States &amp; Canada</item>
+              <item>12-14. United States</item>
+              <item>15. unknown</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-8. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">1-8. Mayan Languages Collection of Terrence Kaufman</archref></item>
+              <item>9. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">9.Huasteca Nahuatl Collection of Terrence Kaufman</archref></item>
+              <item>10-15. Not in AILLA</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">51</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Wasteko</item>
+              <item>- Reel tapes, CDs, cassettes</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">52</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PDLMA</item>
+              <item>1. Copainala Soke</item>
+              <item>2. Sayula Popoluca</item>
+              <item>3. Zongolica Nawa</item>
+              <item>4. Yokot'an</item>
+              <item>5. Matlatzinca</item>
+              <item>6. Tlawika</item>
+              <item>7. Ixcateco</item>
+              <item>8. Otlaltepec Popoloca</item>
+              <item>CDs, cassettes, minidiscs, miniDV, Hi-8</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Everything is from the PDLMA</item>
+              <item>1. Zoque, Copainalá</item>
+              <item>2. Popoluca, Sayula</item>
+              <item>3. Nahuatl, Sierra de Zongalica</item>
+              <item>4. Yokot'an (Chontal, Tabasco)</item>
+              <item>5. Matlatzinca</item>
+              <item>6. Tlahuica</item>
+              <item>7. Ixcatec</item>
+              <item>8. Popoloca, San Felipe Otlaltepec</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">53</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PDLMA</item>
+              <item>audio cassettes, CDs, minidisks</item>
+              <item>video hi-8 and mini DV tapes</item>
+              <item>PDLMA photographs on CDs</item>
+              <item>Sapotek Languages:</item>
+              <item>1. Lachixío Zapotec LCH</item>
+              <item>2. Coatlán Zapotec COA</item>
+              <item>3. Atepec Zapotec ATP</item>
+              <item>4. Choapan Zapotec CHO</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Everything is from the PDLMA</item>
+              <item>1. Zapotec, Lachixío</item>
+              <item>2. Zapotec, Coatlán</item>
+              <item>3. Zapotec, Atepec</item>
+              <item>4. Zapotec, Choapan</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">54</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>1. Totonak Dialect Survey</item>
+              <item>2. PDLMA Totonak CDs, cassettes, 1 hi-8</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Totonac-Tepehua Language Family</item>
+              <item>2. Totonac, Highland</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1242/">Totonac-Tepehua Dialect Survey</archref></item>
+              <item>2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+            </list>
+            <list type="simple">
+              <item>AILLA Notes:</item>
+              <item>1. Funded by the PDLMA and conducted in part by PDLMA staff</item>
+              <item>2-3. Project for the Documentation of the Languages of MesoAmerica (PDLMA)</item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">55</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>PDLMA</item>
+              <item>audio cassettes, CDs, minidisk</item>
+              <item>video hi-8</item>
+              <item>Chatino languages:</item>
+              <item>1. Yaitepec Chatino YAI</item>
+              <item>2. Zenzontepec Chatino ZEN</item>
+              <item>3. Cuixtla Zapotec CUI</item>
+              <item>Tapes with multiple lgs:</item>
+              <item>4. Guichicovi (Isthmus) Zapotec GUI,</item>
+              <item>5. Lachixío Zapotec LCH,</item>
+              <item>6. Zaniza Zapotec ZAN</item>
+              <item>7. PDLMA 2009 text workshop papers and CD</item>
+              <item>misc floppy disks</item>
+              <item>open reels of Mayan lgs:</item>
+              <item>8. Yukateko,</item>
+              <item>9. Tzotzil,</item>
+              <item>10. Chuj</item>
+              <item>11. K'iche'</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>1. Chatino, Eastern, Santiago Yaitepec</item>
+              <item>2. Chatino, Zenzontepec</item>
+              <item>3. Zapotec, Eastern, Santiago Cuixtla</item>
+              <item>4. Mixe, Isthmus</item>
+              <item>5. Zapotec, Lachixío</item>
+              <item>6. Zapotec, Zaniza</item>
+              <item>7. Various Indigenous langauges of Mexico</item>
+              <item>8. Yucatec Maya</item>
+              <item>9. Tzotzil</item>
+              <item>10. Chuj</item>
+              <item>11. K'ichee'</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>1-9. Mexico</item>
+              <item>10. Mexico &amp; Guatemala</item>
+              <item>11. Guatemala</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item>1-7.<archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></item>
+              <item>8-11.<archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">56</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Veracruz Huastec file slips - 4 boxes</item>
+              <item>- HUA-V 4</item>
+              <item>- HUA-V 5</item>
+              <item>- HUA-V 14</item>
+              <item>- HUA-V 16</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">57</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Veracruz Huastec file slips - 4 boxes</item>
+              <item>- HUA-V 2</item>
+              <item>- HUA-V 7</item>
+              <item>- HUA-V 10</item>
+              <item>- HUA-V 11</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">58</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Veracruz Huastec file slips - 4 boxes</item>
+              <item>- HUA-V 1</item>
+              <item>- HUA-V 3</item>
+              <item>- HUA-V 8</item>
+              <item>- HUA-V 12</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">59</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huastec file slips collected by Catherine Budway in collaboration with Kaufman</item>
+              <item>1 box - not clear which dialect this is (Veracruz or Potosí)</item>
+              <item>HUA 21</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">60</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Veracruz Huastec file slips - 3 boxes</item>
+              <item>- HUA-V 9</item>
+              <item>- HUA-V 13</item>
+              <item>- HUA-V 17</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">61</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Veracruz Huastec file slips - 2 boxes</item>
+              <item>- HUA-V 6</item>
+              <item>- HUA-V 15</item>
+              <item>Huastec of Otontepec collected by Catherine Budway collaborating with Kaufman</item>
+              <item>- HUA-22 - ethnobotay</item>
+              <item>- HUA-19 - ethnozoology</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">62</container>
+          </did>
+          <scopecontent>
+            <list type="simple">
+              <item>Content:</item>
+              <item>Huastec file slips, 4 boxes</item>
+              <item>- HUA 24 - ethnobotany- various dialects, collected by Kaufman &amp; Budway</item>
+              <item>- HUA 25 - comparative Huastec</item>
+              <item>- HUA 29 - ethnozoology - various dialects</item>
+              <item>- HUA-V - grammatical stuff, Veracruz dialect</item>
+            </list>
+            <list type="simple">
+              <item>Language Name:</item>
+              <item>Huastec (Mayan)</item>
+            </list>
+            <list type="simple">
+              <item>Country:</item>
+              <item>Mexico</item>
+            </list>
+            <list type="simple">
+              <item>Digital collection:</item>
+              <item><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></item>
+            </list>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd">
+  <!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="unverified-partial-draft" relatedencoding="MARC21">
+    <eadid mainagencycode="US-txula" countrycode="US" encodinganalog="856$u" url="https://txarchives.org/utlac/finding_aids/00433.xml">urn:taro:utexas.blac.00433</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Archive of Indigenous Languages of Latin America (AILLA) Collection</titleproper>
+        <author encodinganalog="245$c">Benson Latin American Collection</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Texas Libraries, </publisher>
+        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2015">2015</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, <date>2015</date></creation>
+      <langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="Latn">English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change encodinganalog="583">
+        <date>2015</date>
+        <item>Finding aid updated and newly ingested collections added by Christian Kelleher.</item>
+      </change>
+      <change>
+        <date normal="2020-11">2020 November</date>
+        <item>Edited by Carla O. Alvarez to fix compliance check errors to prepare for the migration to new TARO website.</item>
+      </change>
+			<change>
+				<date normal="2021-11">2021 November</date>
+				<item>Edited by Devon Murphy to update control access terms and formatting based on the TARO Control Access List.</item>
+			</change>
+      <change>
+        <date normal="2023-01">2023 January</date>
+        <item>Edited by Dylan Joy to reflect move to LSF and added description and links to digital pages.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Descriptive Summary</head>
+      <origination label="Creator:">
+        <corpname source="lcnaf" encodinganalog="110">Archive of Indigenous Languages of Latin America</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Archive of Indigenous Languages of Latin America (AILLA) Collection</unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1900/2000" era="ce" calendar="gregorian" certainty="approximate">20th century</unitdate>
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">Various Latin American Indigenous Languages</language>
+      </langmaterial>
+      <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2010-03</unitid>
+      <physdesc label="Extent:" encodinganalog="300$a"><extent>16+ linear feet</extent></physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
+          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
+        </extref>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a">Analog copies of indigenous language recordings, field notes, photographs, and other research material collected and digitized by the University of Texas' Archive of Indigenous Languages of Latin America (AILLA)</abstract>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>Archive of Indigenous Languages of Latin America (AILLA) was founded in 2000 by Joel Sherzer of the Department of Anthropology, Anthony Woodbury of the Department of Linguistics, and Mark McFarland, Director of the Digital Library Services Division of the UT General Library System. The pilot website and database, launched in April, 2000, were built by a group of Sherzer's graduate students: Christine Beier, William Fairchild, Ajb'ee Jimenez, and Lev Michael. The first year of the project was supported by a grant from the Dean of the College of Liberal Arts at UT Austin.</p>
+      <p>Joel Sherzer conducted research on the Kuna language of Panama for more than 30 years. Over the years he amassed a sizeable collection of recordings of Kuna discourse, including performances that are of tremendous importance to the Kuna people. He observed that other scholars were also creating substantial collections of recordings and texts, constituting a tremendous resource for the indigenous languages of Latin America. He was concerned about the preservation of these priceless collections of indigenous verbal art.</p>
+      <p>The development of affordable technologies for creating and using digital media make it possible for AILLA to collect, digitize, and permanently preserve these resources in standard formats that anyone can access through widely-available software tools. The Internet makes it possible to serve these resources to a global audience, that most importantly includes the speakers of the languages represented in the archive.</p>
+      <p>AILLA is part of both the Lozano Long Institute of Latin American Studies (LLILAS) and the Nettie Lee Benson Latin American Collection (BLAC) at the University of Texas at Austin. AILLA is also an integral part of the language documentation programs of the departments of Linguistics and Anthropology.</p>
+      <p>AILLA is supported by the University of Texas at Austin's College of Liberal Arts and the University Libraries. We are also grateful for generous support from the National Endowment for the Humanities and the National Science Foundation. The archive proper is housed on servers maintained by the Digital Library Services Division of the University Libraries. AILLA's lab and office are located inside the Benson.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <p>Analog originals of indigenous language recordings, field notes, photographs, and other research materials collected and digitized by AILLA. The collection is roughly organized by the name of each depositor of collection material. Country coverage,languages, and dates are listed when available.</p>
+      <p>All of the analog materials described below have been digitized. Access to the corresponding digital collections should be done through the links listed below in the Inventory.</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Boxes 1-13 of this collection are stored remotely. Advance notice is required for retrieval. Please contact <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="bensonspecialcollections@austin.utexas.edu" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:bensonspecialcollections@austin.utexas.edu">bensonspecialcollections@austin.utexas.edu</extref>.</p>
+        <p>Digital access to the materials described below is provided digitally through the Archive of Indigenous Language of Latin American website at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="http://www.ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.ailla.utexas.org">http://www.ailla.utexas.org</extref>. For questions please contact the AILLA manager at <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:title="ailla@ailla.utexas.org" xlink:actuate="onRequest" xlink:show="new" xlink:href="mailto:ailla@ailla.utexas.org">ailla@ailla.utexas.org</extref>.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Intellectual property rights and indigenous community rights restrictions apply.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Archive of Indigenous Languages of Latin America Collection, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Information of acquisition method not available.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Processing information not available.</p>
+		</processinfo>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00558.xml">Joel F. Sherzer Collection on Guna Linguistics</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00409.xml">Mary Ritchie Key Papers</archref></p>
+     
+    </relatedmaterial>
+    <controlaccess>
+      <head>Index Terms</head>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <subject source="local" encodinganalog="650">Archive of Indigenous Languages of Latin America--Archives</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Indigenous languages--Sources</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcnaf" encodinganalog="651">Mexico</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Guatemala</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Argentina</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Chile</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Bolivia</geogname>
+        <geogname source="lcnaf" encodinganalog="651">El Salvador</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Colombia</geogname>
+        <geogname source="lcnaf" encodinganalog="651">Brazil</geogname>
+      </controlaccess>
+    </controlaccess>
+
+    <dsc type="combined">
+      <head>Box Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>List of Collections and Depositors</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Archivo de las Lenguas Ind&#xed;genas de M&#xe9;xico, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962/1999">1962-1999</unitdate>
+            <physdesc>14 reel-to-reel tapes, 3 cassettes</physdesc>
+            </did>
+          <scopecontent><p>Country Coverage: Mexico. Language Name(s)in English (ISO 639-3 code(s)): Akateko (knj); Ch'ol (ctu); Chinantec, San Jual Lealao (cle); Chocholtec (coz); Chontal, Highland Oaxaca (chd); Chuj (cac), Huarij&#xed;o (var),    
+            Huave, San Mateo del Mar (huv); Mayo (mfy); Mazateco, Chiquihuitl&#xe1;n (maq); Mixe, Tlahuitoltepec (mxp); Mixteco, Pi&#xf1;oles (mil); Me'phaa, Malinaltepec (tcf); Nahuatl, Acaxochitl&#xe1;n (nhe); Nahuatl, Istmo-Pajapan (nhp); Otom&#xed;, San Andr&#xe9;s Cuexcontitl&#xe1;n (ots);        
+            Triqui, Copala (trc); Totonac, Papantla (top); Zapotec, Isthmus (zai); Zoque, Santa Mar&#xed;a Chimalapa (zoh)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124450">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Dakin, Karen, </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
+            <physdesc>5 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Edmonson, Barbara, </unittitle><unitdate era="ce" calendar="gregorian" normal="1981/1988">1981-1988</unitdate>
+            <physdesc>3 folders, 4 cassettes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Huasteco (hus)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124475">AILLA site.</archref></p></scopecontent>
+        </c02>   
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Fock, Neils, </unittitle><unitdate era="ce" calendar="gregorian" normal="1950/1959">1950s</unitdate>
+            <physdesc>8 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Brazil. Language Name(s) in English (ISO 639-3 code(s)): Waiwai (waw)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124389">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Gerzenstein, Ana, </unittitle><unitdate era="ce" calendar="gregorian" normal="1966">1966, </unitdate><unitdate era="ce" calendar="gregorian" normal="1968">1968, </unitdate><unitdate era="ce" calendar="gregorian" normal="1971">1971, </unitdate><unitdate era="ce" calendar="gregorian" normal="1977">1977, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983/1985">1983-1985</unitdate>
+            <physdesc>9 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Mak&#xe1; (mca); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124394">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle>Golluscio, Luc&#xed;a, </unittitle><unitdate era="ce" calendar="gregorian" normal="1968">1968, </unitdate><unitdate era="ce" calendar="gregorian" normal="1978">1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1981/1985">1981-1985</unitdate>
+            <physdesc>9 reel-to-reel tapes, 1 cassette</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Wich&#xed; Lhamt&#xe9;s Vejoz (wlv); Mapudungun (arn)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124393">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Grimes, Larry, </unittitle><unitdate era="ce" calendar="gregorian" normal="1965/1970" certainty="approximate">late 1960s, early 1970s</unitdate>
+            <physdesc>6 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): K'iche' (quc); Kaqchikel (cak); Tz'utujil (tzj)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124395">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle>Grinevald, Colette, </unittitle><unitdate era="ce" calendar="gregorian" normal="1970/1973">1970-1973</unitdate>
+            <physdesc>5 reel-to-reel tapes, 11 cassettes, 1 mini disk</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Guatemala. Language Name(s) in English (ISO 639-3 code(s)): Popti' (jac)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124398">AILLA site.</archref></p></scopecontent>
+          
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2-4</container>
+            <unittitle>Hill, Jane and Kenneth, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962">1962, </unitdate><unitdate era="ce" calendar="gregorian" normal="1974/1978">1974-1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <physdesc>90 cassette tapes, plus folders and notebooks</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)</p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">4</container>
+            <unittitle>Hopkins, Nicholas, </unittitle><unitdate era="ce" calendar="gregorian" normal="1964/2002">1964-2002</unitdate>
+            <physdesc>30 reel-to-reel tapes, 9 cassette tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">4-6</container>
+            <unittitle>Josserand, Kathryn, </unittitle><unitdate era="ce" calendar="gregorian" normal="1970/1989">1970s and 1980s</unitdate>
+            <physdesc>118 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mixtec (omq); various Otom&#xed;, Eastern Highland (otm); Mazahua, Central (maz)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124466">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Lastra, Yolanda, </unittitle><unitdate era="ce" calendar="gregorian" normal="1959/2009">1959-2009</unitdate>
+            <physdesc>13 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
+            Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Mart&#xed;n, Herminia</unittitle>
+            <physdesc>6 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Chorote (crt); Nivacl&#xe9; (cag); Pilag&#xe1; (plg); Wich&#xed; Lhamt&#xe9;s Vejoz (wlv)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124454">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Messineo, Christina, </unittitle><unitdate era="ce" calendar="gregorian" normal="2003">2003</unitdate>
+            <physdesc>3 cassette tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Argentina. Language Name(s) in English (ISO 639-3 code(s)): Qom (qom)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124424">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle>Moser, Edward and Mary, </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s</unitdate>
+            <physdesc>38 open reel tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Seri (sei)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124485">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Pride, Kitty and Leslie, </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s</unitdate>
+            <physdesc>8 reel-to-reel tapes, 1 cassette</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Chatino, Eastern San Juan Quiahije (ctp); Chatino, Tataltepec de Vald&#xe9;s (cta)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124459">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">8</container>
+            <unittitle>Su&#xe1;rez, Jorge A., </unittitle><unitdate era="ce" calendar="gregorian" normal="1960/1969">1960s, </unitdate><unitdate era="ce" calendar="gregorian" normal="1970/1979">1970s</unitdate>
+            <physdesc>30 reel-to-reel tapes, notebooks</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Argentina, Chile. Language Name(s) in English (ISO 639-3 code(s)): Ona (ona); Tehuelche (teh)  
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124415">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">9</container>
+            <unittitle>Hopkins, Nicholas, </unittitle><unitdate era="ce" calendar="gregorian" normal="1964/2002">1964-2002</unitdate>
+            <physdesc>21 DAT, 9 open reel tapes, 13 Hi-8 video cassettes, 44 audio cassettes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Ch'ol (ctu); Chuj (cac); Unspecified language (und)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124472">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">10</container>
+            <unittitle>Lastra, Yolanda, </unittitle><unitdate era="ce" calendar="gregorian" normal="1959/2009">1959-2009</unitdate>
+            <physdesc>25 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p> Country Coverage: Mexico, Bolivia. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl (nah); Nahuatl, Central (nhn); Nahuatl, Central Huasteca (nch); Nahuatl, Huaxcaleca (nhq); Nahuatl, Morelos (nhm)
+            Nahuatl, Central Puebla (ncx); Nahuatl, Northern Puebla (ncj); Nahuatl, Southeastern Puebla (nhs); Otom&#xed; (otm); Otom&#xed;, Ixtenco (otz) ; Quechua, South Bolivian (qwe)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124414">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">11</container>
+            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
+            <physdesc>117 cassettes, 9 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">12</container>
+            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
+            <physdesc>101 folders containing dissertation and other research data, in addition to transcriptions and translations that correspond to audio files; each folder has an PID written on it; also includes an unfoldered copy of Terrence Kaufman’s November 1967 “Preliminary Moch&#xf3; Vocabulary”</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Martin, Laura, </unittitle><unitdate era="ce" calendar="gregorian" normal="1973/2005">1973-2005</unitdate>
+            <physdesc>2.75 inches of publications by other people; 11 notebooks of fieldnotes and elicitations</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Guatemala, Mexico. Language Name(s) in English (ISO 639-3 code(s)): Mocho (mhc) ; Q'anjob'al (kjb) ; Tektiteko (ttc)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124421">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Hill, Jane and Kenneth, </unittitle><unitdate era="ce" calendar="gregorian" normal="1962">1962, </unitdate><unitdate era="ce" calendar="gregorian" normal="1974/1978">1974-1978, </unitdate><unitdate era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <physdesc>9 folders of various publications and a few unfoldered pamphlets and publications</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Mexico. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Central (nhn)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124405">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle>Dakin, Karen, </unittitle><unitdate era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
+            <physdesc>6 reel-to-reel tapes</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Mexico, El Salvador. Language Name(s) in English (ISO 639-3 code(s)): Nahuatl, Morelos (nhm); Pipil (ppl)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124477">AILLA site.</archref></p></scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">14-16</container>
+            <unittitle>Sorensen, Arthur </unittitle>
+            <physdesc>To be eventually included in a stand alone collection.</physdesc>
+          </did>
+          <scopecontent><p>Country Coverage: Colombia. Language Name(s) in English (ISO 639-3 code(s)): Curripaco (kpc) ; Wanano (gvc) ; Tucano (tuo) ; Desano (des) ; Cubeo (cub) ; Multiple languages (mul)
+          </p>
+            <p>Digital collection via <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/islandora/object/ailla%3A124488">AILLA site.</archref></p></scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
