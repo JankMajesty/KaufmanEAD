@@ -30,79 +30,29 @@
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">English, </language>
         <language langcode="spa" scriptcode="Latn">Spanish, </language>
-        <language langcode="sai" scriptcode="Latn">Achumawi, </language>
-        <language langcode="ara" scriptcode="Latn">Arabic, Saudi, </language>
-        <language langcode="sai" scriptcode="Latn">Atsugewi, </language>
-        <language langcode="sai" scriptcode="Latn">Bribri, </language>
-        <language langcode="sai" scriptcode="Latn">Chatino, Eastern, Santiago Yaitepec, </language>
-        <language langcode="sai" scriptcode="Latn">Chatino, Zonzontepec, </language>
-        <language langcode="sai" scriptcode="Latn">Chimariko, </language>
-        <language langcode="sai" scriptcode="Latn">Chinook Jargon, </language>
-        <language langcode="sai" scriptcode="Latn">Chuj, </language>
-        <language langcode="sai" scriptcode="Latn">Cupeño, </language>
-        <language langcode="sai" scriptcode="Latn">Dakota, </language>
+        <language langcode="ara" scriptcode="Latn">Arabic, </language>
+        <language langcode="sai" scriptcode="Latn">Chatino, </language>
         <language langcode="sai" scriptcode="Latn">Dení, </language>
-        <language langcode="eng" scriptcode="Latn">English, </language>
-        <language langcode="sai" scriptcode="Latn">Hopi, </language>
-        <language langcode="sai" scriptcode="Latn">Huastec (Mayan), </language>
-        <language langcode="sai" scriptcode="Latn">Itza’, </language>
-        <language langcode="sai" scriptcode="Latn">Ixcatec, </language>
-        <language langcode="sai" scriptcode="Latn">Ixil, </language>
-        <language langcode="sai" scriptcode="Latn">K’iche’, </language>
-        <language langcode="sai" scriptcode="Latn">Lacandon, </language>
-        <language langcode="sai" scriptcode="Latn">Matlatzinca, </language>
-        <language langcode="sai" scriptcode="Latn">Mam, </language>
-        <language langcode="sai" scriptcode="Latn">Miwok, Lake, </language>
-        <language langcode="sai" scriptcode="Latn">Miwok, Plains, </language>
-        <language langcode="sai" scriptcode="Latn">Mixe, Isthmus, </language>
-        <language langcode="sai" scriptcode="Latn">Mixe, Totontepec, </language>
-        <language langcode="sai" scriptcode="Latn">Mocho, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Central Huasteca, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Eastern Huasteca, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Highland Puebla, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Istmo-Pajapan, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Istmo-Mecayapan, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Sierra de Zongalica, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Tabasco, </language>
-        <language langcode="sai" scriptcode="Latn">Nahuatl, Western Huasteca, </language>
-        <language langcode="sai" scriptcode="Latn">Popoluca, Oluta, </language>
-        <language langcode="sai" scriptcode="Latn">Popoluca, San Felipe Otlaltepec, </language>
-        <language langcode="sai" scriptcode="Latn">Popoluca, Sayula, </language>
-        <language langcode="sai" scriptcode="Latn">Serrano, </language>
-        <language langcode="spa" scriptcode="Latn">Spanish, </language>
+        <language langcode="sai" scriptcode="Latn">Hokan, </language>
+        <language langcode="sai" scriptcode="Latn">Matlatzincan, </language>
+        <language langcode="myn" scriptcode="Latn">Mayan, </language>
+        <language langcode="sai" scriptcode="Latn">Mixe, </language>
+        <language langcode="nah" scriptcode="Latn">Nahuat(l), </language>
+        <language langcode="sai" scriptcode="Latn">Northern Uto-Azteca, </language>
+        <language langcode="sai" scriptcode="Latn">Popolocan, </language>
         <language langcode="sai" scriptcode="Latn">Suruí, </language>
-        <language langcode="sai" scriptcode="Latn">Tektiteko, </language>
-        <language langcode="sai" scriptcode="Latn">Tepehua, Huehuetla, </language>
-        <language langcode="sai" scriptcode="Latn">Tlahuica, </language>
-        <language langcode="sai" scriptcode="Latn">Totonac, Highland, </language>
-        <language langcode="sai" scriptcode="Latn">Tubatulabal, </language>
-        <language langcode="sai" scriptcode="Latn">Tzeltal, </language>
-        <language langcode="sai" scriptcode="Latn">Tzotzil, </language>
-        <language langcode="sai" scriptcode="Latn">Uspanteko, </language>
-        <language langcode="sai" scriptcode="Latn">Yokot’an (Chontal, Tabasco), </language>
-        <language langcode="sai" scriptcode="Latn">Yucatec (Maya), </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Atepec, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Choapan, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Coatlán, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Eastern, Santiago Cuixtla, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Lachixío, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotec, Zaniza, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Ayapaneco, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Copainalá, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, San Miguel Chimalapa, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Santa María Chimalapa, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Soteapan, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Tecpatán, </language>
-        <language langcode="sai" scriptcode="Latn">Zoque, Texistepec</language>
-        <language langcode="sai" scriptcode="Latn">Chibchan Language Family, </language>
+        <language langcode="sai" scriptcode="Latn">Totonac-Tepehua, </language>
+        <language langcode="zap" scriptcode="Latn">Zapotec, </language>
+        <language langcode="sai" scriptcode="Latn">Zoque, </language>
+        <language langcode="chb" scriptcode="Latn">Chibchan Language Family, </language>
         <language langcode="sai" scriptcode="Latn">Hokan Language Family, </language>
-        <language langcode="sai" scriptcode="Latn">Mayan Language Family, </language>
+        <language langcode="myn" scriptcode="Latn">Mayan Language Family, </language>
         <language langcode="sai" scriptcode="Latn">Mixe-Zoquean Language Family, </language>
-        <language langcode="sai" scriptcode="Latn">Otomanguean Language Family, </language>
+        <language langcode="oto" scriptcode="Latn">Otomanguean Language Family, </language>
         <language langcode="sai" scriptcode="Latn">Pomoan Language Family, </language>
         <language langcode="sai" scriptcode="Latn">Totonac-Tepehua Language Family, </language>
         <language langcode="sai" scriptcode="Latn">Uto-Aztecan Language Family, </language>
-        <language langcode="sai" scriptcode="Latn">Zapotecan Language Family</language>
+        <language langcode="zap" scriptcode="Latn">Zapotecan Language Family</language>
       </langmaterial>
       <unitid label="Accession No.:" countrycode="US" repositorycode="US-txula" encodinganalog="099">2022-40</unitid>
       <physdesc label="Extent:" encodinganalog="300$a"><extent>62 linear feet</extent></physdesc>
@@ -184,6 +134,8 @@
         <geogname source="lcsh" encodinganalog="651">Mexico</geogname>
         <geogname source="lcsh" encodinganalog="651">Guatemala</geogname>
         <geogname source="lcsh" encodinganalog="651">Mesoamerica</geogname>
+        <geogname source="lcsh" encodinganalog="651">Central America</geogname>
+        <geogname source="lcsh" encodinganalog="651">Brazil</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -344,7 +296,7 @@
             <p>Content: 1. Comparative Hokan [- 1 box of file slips]</p>
             <p>2. Dení [- 1 box of file slips]</p>
             <p>3. Suruí [- 1 box of file slips]</p>
-            <p>Language Name: 1. Hokan (a controversially hypothetical) language family, 2. Dení, 3. Suruí</p>
+            <p>Language Name: 1. Hokan (a controversially hypothetical) language family; 2. Dení; 3. Suruí</p>
             <p>Country: 1. United States and Mexico; 2-3. Brazil</p>
             <p>Digital collection: 1-3. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1663/">Latin American Languages Collection of Terrence Kaufman</archref></p>
           </scopecontent>
@@ -774,7 +726,8 @@
             <p>2. Totontepec Mije [-CDs]</p>
             <p>3. Texistepec Popoluca [-CDs]</p>
             <p>4. Excursion to Reserva Biologica</p>
-            <p>Language Name: All CDs are from the PDLMA [1. Popoluca, Oluta; 2. Mixe, Totontepec; 3. Zoque, Texistepec; 4. Various Indigenous languages of Mexico]</p>
+            <p>All CDs are from the PDLMA </p>
+            <p>Language Name: 1. Popoluca, Oluta; 2. Mixe, Totontepec; 3. Zoque, Texistepec; 4. Various Indigenous languages of Mexico</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -789,7 +742,8 @@
             <p>2. Totontepec Mije [-minidiscs]</p>
             <p>3. Texistepec Popoluca ??</p>
             <p>4. Excursion to Reserva Biologica</p>
-            <p>Language Name: All CDs are from the PDLMA [1. Popoluca, Oluta; 2. Mixe, Totontepec; 3. Zoque, Texistepec; 4. Various Indigenous languages of Mexico]</p>
+            <p>All CDs are from the PDLMA </p>
+            <p>Language Name: 1. Popoluca, Oluta; 2. Mixe, Totontepec; 3. Zoque, Texistepec; 4. Various Indigenous languages of Mexico</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -804,7 +758,7 @@
             <p>2. Ayapaneko [- CDs, cassettes]</p>
             <p>3. Soteapan [- CDs, cassettes, minidics]</p>
             <p>4. Tecpatán Soke [- CDs, cassettes, two notebooks]</p>
-            <p>Language Name: Everything is from the PDLMA [1. Zoque, Santa María Chimalapa and 1. Zoque, San Miguel Chimalapa; 2. Zoque, Ayapaneco; 3. Zoque, Soteapan; 4. Zoque, Tecpatán]</p>
+            <p>Language Name: 1. Zoque, Santa María Chimalapa and 1. Zoque, San Miguel Chimalapa; 2. Zoque, Ayapaneco; 3. Zoque, Soteapan; 4. Zoque, Tecpatán</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -819,7 +773,7 @@
             <p>2. Ayapaneko [- CDs, cassettes]</p>
             <p>3. Soteapan [- CDs, cassettes, minidics]</p>
             <p>4. Tecpatán Soke [- CDs, cassettes, two notebooks]</p>
-            <p>Language Name: Everything is from the PDLMA [1. Zoque, Santa María Chimalapa and 1. Zoque, San Miguel Chimalapa; 2. Zoque, Ayapaneco; 3. Zoque, Soteapan; 4. Zoque, Tecpatán]</p>
+            <p>Language Name: 1. Zoque, Santa María Chimalapa and 1. Zoque, San Miguel Chimalapa; 2. Zoque, Ayapaneco; 3. Zoque, Soteapan; 4. Zoque, Tecpatán</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -830,7 +784,7 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: Part 1 of 2 (of former shipping box 30) - not a precise inventory [-open reels, cassettes, CDs Mayan languages] 1. Mam; 2. Teko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil, Chamula; 6. Mocho'; 7. Itzaj; 8. Ixil Nawa; 9. 2 dialects of Nahuatl: TUZ &amp; PIA; 10. Saudi Arabic; 11. Chinook Jargon; 12. Dakota; 13. Lake Miwok; 14. Plains Miwok; 15. Popular music</p>
+            <p>Content: Part 1 of 2 (of former shipping box 30) - not a precise inventory 1. Mam; 2. Teko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil, Chamula; 6. Mocho'; 7. Itzaj; 8. Ixil Nawa; 9. 2 dialects of Nahuatl: TUZ &amp; PIA; 10. Saudi Arabic; 11. Chinook Jargon; 12. Dakota; 13. Lake Miwok; 14. Plains Miwok; 15. Popular music [-open reels, cassettes, CDs Mayan languages]</p>
             <p>Language Name: 1. Mam; 2. Tektiteko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil; 6. Mocho; 7. Itza'; 8. Ixil; 9. Nahuatl, Western Huasteca; 10. Arabic, Saudi; 11. Chinook Jargon; 12. Dakota; 13. Miwok, Lake; 14. Miwok, Plains; 15. music</p>
             <p>Country: 1-9. Guatemala, Mexico; 10. Saudi Arabia; 11. United States &amp; Canada; 12-14. United States; 15. unknown</p>
             <p>Digital collection: 1-8. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref>; 9. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref>; 10-15. Not in AILLA</p>
@@ -842,7 +796,7 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: Part 2 of 2 (of former shipping box 30) - not a precise inventory [-open reels, cassettes, CDs Mayan languages] 1. Mam; 2. Teko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil, Chamula; 6. Mocho'; 7. Itzaj; 8. Ixil Nawa; 9. 2 dialects of Nahuatl: TUZ &amp; PIA; 10. Saudi Arabic; 11. Chinook Jargon; 12. Dakota; 13. Lake Miwok; 14. Plains Miwok; 15. Popular music</p>
+            <p>Content: Part 2 of 2 (of former shipping box 30) - not a precise inventory 1. Mam; 2. Teko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil, Chamula; 6. Mocho'; 7. Itzaj; 8. Ixil Nawa; 9. 2 dialects of Nahuatl: TUZ &amp; PIA; 10. Saudi Arabic; 11. Chinook Jargon; 12. Dakota; 13. Lake Miwok; 14. Plains Miwok; 15. Popular music [-open reels, cassettes, CDs Mayan languages]</p>
             <p>Language Name: 1. Mam; 2. Tektiteko; 3. Uspanteko; 4. Tzeltal; 5. Tzotzil of Chamula; 6. Mocho; 7. Itza'; 8. Ixil; 9. Nahuatl, Western Huasteca; 10. Arabic, Saudi; 11. Chinook Jargon; 12. Dakota; 13. Miwok, Lake; 14. Miwok, Plains; 15. music</p>
             <p>Country: 1-9. Guatemala, Mexico; 10. Saudi Arabia; 11. United States &amp; Canada; 12-14. United States; 15. unknown</p>
             <p>Digital collection: 1-8. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref>; 9. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1662/">Huasteca Nahuatl Collection of Terrence Kaufman</archref>; 10-15. Not in AILLA</p>
@@ -867,7 +821,7 @@
           </did>
           <scopecontent>
             <p>Content: PDLMA 1. Copainala Soke; 2. Sayula Popoluca; 3. Zongolica Nawa; 4. Yokot'an; 5. Matlatzinca; 6. Tlawika; 7. Ixcateco; 8. Otlaltepec Popoloca [-CDs, cassettes, minidiscs, miniDV, Hi-8]</p>
-            <p>Language Name: Everything is from the PDLMA [1. Zoque, Copainalá; 2. Popoluca, Sayula; 3. Nahuatl, Sierra de Zongalica; 4. Yokot'an (Chontal, Tabasco); 5. Matlatzinca; 6. Tlahuica; 7. Ixcatec; 8. Popoloca, San Felipe Otlaltepec]</p>
+            <p>Language Name: 1. Zoque, Copainalá; 2. Popoluca, Sayula; 3. Nahuatl, Sierra de Zongalica; 4. Yokot'an (Chontal, Tabasco); 5. Matlatzinca; 6. Tlahuica; 7. Ixcatec; 8. Popoloca, San Felipe Otlaltepec</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -878,8 +832,8 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: PDLMA [-audio cassettes, CDs, minidisks video hi-8 and mini DV tapes PDLMA photographs on CDs Sapotek Languages: 1. Lachixío Zapotec; LCH 2. Coatlán Zapotec COA; 3. Atepec Zapotec ATP; 4. Choapan Zapotec CHO]</p>
-            <p>Language Name: Everything is from the PDLMA [1. Zapotec, Lachixío; 2. Zapotec, Coatlán; 3. Zapotec, Atepec; 4. Zapotec, Choapan]</p>
+            <p>Content: PDLMA Sapotek Languages: 1. Lachixío Zapotec; LCH 2. Coatlán Zapotec COA; 3. Atepec Zapotec ATP; 4. Choapan Zapotec CHO [-audio cassettes, CDs, minidisks video hi-8 and mini DV tapes PDLMA photographs on CDs]</p>
+            <p>Language Name: 1. Zapotec, Lachixío; 2. Zapotec, Coatlán; 3. Zapotec, Atepec; 4. Zapotec, Choapan</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
           </scopecontent>
@@ -894,7 +848,7 @@
             <p>Language Name: 1. Totonac-Tepehua Language Family; 2. Totonac, Highland</p>
             <p>Country: Mexico</p>
             <p>Digital collection: 1. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/1242/">Totonac-Tepehua Dialect Survey</archref>; 2. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref></p>
-            <p>AILLA Notes: 1. Funded by the PDLMA and conducted in part by PDLMA staff [2-3. Project for the Documentation of the Languages of MesoAmerica (PDLMA)]</p>
+            <p>AILLA Notes: 1. Funded by the PDLMA and conducted in part by PDLMA staff. 2-3. Project for the Documentation of the Languages of MesoAmerica (PDLMA)</p>
           </scopecontent>
         </c02>
         <c02 level="file">
@@ -905,7 +859,7 @@
           <scopecontent>
             <p>Content: PDLMA [audio cassettes, CDs, minidisk video hi-8 Chatino languages: 1. Yaitepec Chatino YAI 2. Zenzontepec Chatino ZEN 3. Cuixtla Zapotec CUI Tapes with multiple lgs: 4. Guichicovi (Isthmus) Zapotec GUI, 5. Lachixío Zapotec LCH, 6. Zaniza Zapotec ZAN 7. PDLMA 2009 text workshop papers and CD misc floppy disks open reels of Mayan lgs: 8. Yukateko, 9. Tzotzil, 10. Chuj 11. K'iche']</p>
             <p>Language Name: 1. Chatino, Eastern, Santiago Yaitepec; 2. Chatino, Zenzontepec; 3. Zapotec, Eastern, Santiago Cuixtla; 4. Mixe, Isthmus; 5. Zapotec, Lachixío; 6. Zapotec, Zaniza; 7. Various Indigenous langauges of Mexico; 8. Yucatec Maya; 9. Tzotzil; 10. Chuj; 11. K'ichee'</p>
-            <p>Country: 1-9. Mexico; 10. Mexico &amp; Guatemala; 11. Guatemala]</p>
+            <p>Country: 1-9. Mexico; 10. Mexico &amp; Guatemala; 11. Guatemala</p>
             <p>Digital collection: 1-7. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.lib.utexas.edu/collections/1701/">The Project for the Documentation of the Languages of MesoAmerica (PDLMA)</archref>; 8-11. <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></p>
           </scopecontent>
         </c02>
@@ -963,7 +917,7 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: Veracruz Huastec file slips - 3 boxes [- HUA-V 9 - HUA-V 13 - HUA-V 17]</p>
+            <p>Content: Veracruz Huastec file slips [- 3 boxes -- HUA-V 9 -- HUA-V 13 -- HUA-V 17]</p>
             <p>Language Name: Huastec (Mayan)</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></p>
@@ -975,7 +929,7 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: Veracruz Huastec file slips - 2 boxes [- HUA-V 6 - HUA-V 15 Huastec of Otontepec collected by Catherine Budway collaborating with Kaufman - HUA-22 - ethnobotay - HUA-19 - ethnozoology]</p>
+            <p>Content: Veracruz Huastec file slips [- 2 boxes -- HUA-V 6 -- HUA-V 15 -- Huastec of Otontepec collected by Catherine Budway collaborating with Kaufman -- HUA-22 -- ethnobotay -- HUA-19 -- ethnozoology]</p>
             <p>Language Name: Huastec (Mayan)</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></p>
@@ -987,7 +941,7 @@
             <unittitle>Language Materials</unittitle>
           </did>
           <scopecontent>
-            <p>Content: Huastec file slips, 4 boxes [- HUA 24 - ethnobotany- various dialects, collected by Kaufman &amp; Budway - HUA 25 - comparative Huastec - HUA 29 - ethnozoology - various dialects - HUA-V - grammatical stuff, Veracruz dialect]</p>
+            <p>Content: Huastec file slips, [- 4 boxes -- HUA 24 -- ethnobotany- various dialects, collected by Kaufman &amp; Budway -- HUA 25 -- comparative Huastec -- HUA 29 -- ethnozoology -- various dialects -- HUA-V -- grammatical stuff, Veracruz dialect]</p>
             <p>Language Name: Huastec (Mayan)</p>
             <p>Country: Mexico</p>
             <p>Digital collection: <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://ailla.utexas.org/collections/783/">Mayan Languages Collection of Terrence Kaufman</archref></p>
